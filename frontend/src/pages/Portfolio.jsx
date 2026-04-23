@@ -161,7 +161,7 @@ export default function Portfolio() {
                     </div>
                     {company.status && (
                       <span style={{ fontSize: '0.6rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#c2410c', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase', flexShrink: 0 }} >
-                        {company.status}
+                        <span className="sr-only">Status: </span>{company.status}
                       </span>
                     )}
                   </div>

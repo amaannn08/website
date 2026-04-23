@@ -102,9 +102,9 @@ export default function Home() {
 
         <div style={{ position: 'relative', maxWidth: '88rem', margin: '0 auto', padding: '8rem 2rem 6rem', textAlign: 'center' }}>
           {/* Eyebrow */}
-          <div className="animate-fade-in-up" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', marginBottom: '2rem', padding: '0.5rem 1rem', border: '1px solid rgba(249,115,22,0.3)', borderRadius: '999px', backgroundColor: 'rgba(249,115,22,0.06)' }}>
-            <span style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#c2410c' }} aria-hidden="true" />
-            <span style={{ color: '#c2410c', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase' }}>Early-Stage VC · India</span>
+          <div className="animate-fade-in-up" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', marginBottom: '2rem', padding: '0.5rem 1rem', border: '1px solid rgba(255,255,255,0.25)', borderRadius: '999px', backgroundColor: 'rgba(255,255,255,0.06)' }}>
+            <span style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#f97316' }} aria-hidden="true" />
+            <span style={{ color: '#ffffff', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase' }}>Early-Stage VC · India</span>
           </div>
 
           <h1 className="animate-fade-in-up delay-100" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(3rem, 8vw, 6rem)', fontWeight: 900, color: '#ffffff', lineHeight: 1.05, marginBottom: '1.5rem', letterSpacing: '-0.02em' }}>
@@ -112,7 +112,7 @@ export default function Home() {
             <span style={{ color: '#c2410c' }}>doesn't</span> exist yet?
           </h1>
 
-          <p className="animate-fade-in-up delay-200" style={{ fontSize: '1.125rem', color: 'rgba(255,255,255,0.6)', maxWidth: '36rem', margin: '0 auto 3rem', lineHeight: 1.7 }}>
+          <p className="animate-fade-in-up delay-200" style={{ fontSize: '1.125rem', color: 'rgba(255,255,255,0.9)', maxWidth: '36rem', margin: '0 auto 3rem', lineHeight: 1.7 }}>
             We back category creators early — when their ideas sound impossible and their markets don't yet exist.
           </p>
 
@@ -130,10 +130,10 @@ export default function Home() {
             </a>
             <a
               href="/portfolio"
-              style={{ display: 'inline-flex', alignItems: 'center', minHeight: '52px', padding: '0 2rem', border: '1px solid rgba(255,255,255,0.6)', color: 'rgba(255,255,255,0.8)', fontWeight: 500, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'border-color 0.2s, color 0.2s' }}
+              style={{ display: 'inline-flex', alignItems: 'center', minHeight: '52px', padding: '0 2rem', border: '1px solid rgba(255,255,255,0.7)', color: '#ffffff', fontWeight: 500, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'border-color 0.2s, color 0.2s' }}
               aria-label="View Portfolio — View our portfolio companies"
-              onMouseEnter={e => { e.currentTarget.style.borderColor = '#f97316'; e.currentTarget.style.color = '#f97316'; }}
-              onMouseLeave={e => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.6)'; e.currentTarget.style.color = 'rgba(255,255,255,0.8)'; }}
+              onMouseEnter={e => { e.currentTarget.style.borderColor = '#ffffff'; e.currentTarget.style.color = '#ffffff'; }}
+              onMouseLeave={e => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.7)'; e.currentTarget.style.color = '#ffffff'; }}
             >
               View Portfolio
             </a>

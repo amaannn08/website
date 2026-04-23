@@ -116,30 +116,39 @@ export default function Team() {
       <section aria-labelledby="investment-team-heading" style={{ backgroundColor: '#ffffff', padding: '2rem 0 6rem' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
           <h2 id="investment-team-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '2rem' }}>Investment Team</h2>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, 300px)', justifyContent: 'center', gap: '1px', backgroundColor: '#e5e5e5', border: '1px solid #e5e5e5' }}>
+          <div style={{ border: '1px solid #e5e5e5' }}>
             {analysts.map((member, i) => (
               <AnimatedSection key={member.id} delay={i * 80}>
                 <article
                   aria-labelledby={`name-${member.id}`}
-                  style={{ backgroundColor: '#ffffff', padding: '2rem', height: '100%', boxSizing: 'border-box', transition: 'background-color 0.15s' }}
+                  style={{
+                    display: 'flex',
+                    flexDirection: i % 2 === 0 ? 'row' : 'row-reverse',
+                    borderBottom: i < analysts.length - 1 ? '1px solid #e5e5e5' : 'none',
+                    backgroundColor: '#ffffff',
+                    transition: 'background-color 0.15s',
+                  }}
                   onMouseEnter={e => e.currentTarget.style.backgroundColor = '#fff7ed'}
                   onMouseLeave={e => e.currentTarget.style.backgroundColor = '#ffffff'}
                 >
-                  {/* Photo */}
-                  <div style={{ width: '100%', aspectRatio: '3/4', overflow: 'hidden', marginBottom: '1.25rem', backgroundColor: '#f5f5f5' }}>
+                  {/* Photo — fixed width */}
+                  <div style={{ width: '260px', flexShrink: 0, overflow: 'hidden', backgroundColor: '#f5f5f5' }}>
                     <img
                       src={member.photo}
                       alt={`Photo of ${member.name}`}
                       style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top', display: 'block' }}
                     />
                   </div>
-                  <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.25rem', letterSpacing: '0.02em' }}>
-                    {member.name}
-                  </h3>
-                  <span style={{ display: 'inline-block', fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '1rem' }}>
-                    {member.role}
-                  </span>
-                  <p style={{ fontSize: '0.8125rem', color: '#737373', lineHeight: 1.7, margin: 0 }}>{member.bio}</p>
+                  {/* Text */}
+                  <div style={{ flex: 1, padding: '2.5rem', display: 'flex', flexDirection: 'column', justifyContent: 'center', borderLeft: i % 2 === 0 ? '1px solid #e5e5e5' : 'none', borderRight: i % 2 !== 0 ? '1px solid #e5e5e5' : 'none' }}>
+                    <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.25rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.25rem', letterSpacing: '0.02em' }}>
+                      {member.name}
+                    </h3>
+                    <span style={{ display: 'inline-block', fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>
+                      {member.role}
+                    </span>
+                    <p style={{ fontSize: '0.9rem', color: '#737373', lineHeight: 1.75, margin: 0, maxWidth: '36rem' }}>{member.bio}</p>
+                  </div>
                 </article>
               </AnimatedSection>
             ))}

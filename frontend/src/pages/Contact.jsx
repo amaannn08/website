@@ -3,86 +3,76 @@ import { ArrowUpRight, Mail } from 'lucide-react';
 import AnimatedSection from '../components/ui/AnimatedSection';
 
 export default function Contact() {
-  useEffect(() => {
-    document.title = 'Contact | WEH Ventures';
-  }, []);
+  useEffect(() => { document.title = 'Contact | WEH Ventures'; }, []);
 
   return (
     <main id="main-content">
-      {/* Hero */}
-      <section
-        className="relative min-h-screen flex items-center justify-center overflow-hidden"
-        aria-label="Contact hero"
-      >
-        {/* Grid bg */}
-        <div
-          className="absolute inset-0 pointer-events-none"
-          style={{
-            backgroundImage:
-              'linear-gradient(rgba(251,191,36,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(251,191,36,0.04) 1px, transparent 1px)',
-            backgroundSize: '60px 60px',
-          }}
-          aria-hidden="true"
-        />
-        {/* Glow */}
-        <div
-          className="absolute top-1/3 left-1/2 -translate-x-1/2 w-[500px] h-[500px] rounded-full pointer-events-none"
-          style={{
-            background: 'radial-gradient(circle, rgba(251,191,36,0.07) 0%, transparent 70%)',
-          }}
-          aria-hidden="true"
-        />
 
-        <div className="relative max-w-5xl mx-auto px-6 lg:px-8 pt-32 pb-24 text-center">
-          <AnimatedSection>
-            <p className="text-xs font-semibold tracking-widest uppercase text-amber-400 mb-8">
-              Get in Touch
-            </p>
-            <h1
-              className="text-5xl md:text-7xl lg:text-8xl font-black text-white leading-none mb-8"
-              style={{ fontFamily: "'Syne', sans-serif" }}
-            >
-              Let's build the
-              <br />
-              next{' '}
-              <span className="text-amber-400">category</span>
-              <br />
-              — together.
+      {/* Hero — white */}
+      <section aria-label="Contact hero" style={{ backgroundColor: '#ffffff', paddingTop: '64px' }}>
+        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
+          <div className="animate-fade-in-up" style={{ maxWidth: '50rem' }}>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>Get in Touch</p>
+            <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 7vw, 6rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: '0 0 1.5rem', letterSpacing: '-0.02em' }}>
+              Let's build the next{' '}
+              <span style={{ color: '#f97316' }}>category</span>
+              {' '}— together.
             </h1>
-            <p className="text-lg md:text-xl text-neutral-400 max-w-lg mx-auto mb-12 leading-relaxed">
-              Got an untitled idea or an early prototype? We'd love to hear from
-              you.
+            <p style={{ fontSize: '1.125rem', color: '#737373', lineHeight: 1.7, maxWidth: '32rem', margin: 0 }}>
+              Got an untitled idea or an early prototype? We'd love to hear from you.
             </p>
+          </div>
+        </div>
+        <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+          <div style={{ height: '4px', width: '120px', backgroundColor: '#f97316' }} />
+        </div>
+      </section>
 
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <a
-                href="https://forms.gle/2156kxYjbMqcsyJe7"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Submit your pitch to WEH Ventures (opens external Google Form)"
-                className="inline-flex items-center gap-2 min-h-[56px] px-10 py-4 bg-amber-400 text-black font-bold text-sm tracking-wide rounded-sm hover:bg-amber-300 transition-colors duration-200"
-              >
-                Submit Your Pitch
-                <ArrowUpRight size={16} aria-hidden="true" />
-              </a>
-            </div>
-          </AnimatedSection>
+      {/* CTA block */}
+      <section aria-labelledby="contact-cta" style={{ backgroundColor: '#ffffff', padding: '5rem 0' }}>
+        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+          <AnimatedSection style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '2rem' }}>
+            <a
+              href="https://forms.gle/2156kxYjbMqcsyJe7"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Submit your pitch to WEH Ventures (opens external Google Form)"
+              style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', minHeight: '56px', padding: '0 2.5rem', backgroundColor: '#f97316', color: '#ffffff', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', letterSpacing: '0.08em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.15s' }}
+              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#ea580c'}
+              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#f97316'}
+            >
+              Submit Your Pitch
+              <ArrowUpRight size={18} aria-hidden="true" />
+            </a>
 
-          {/* Email note */}
-          <AnimatedSection delay={200} className="mt-16">
-            <div className="inline-flex items-center gap-3 px-6 py-4 border border-neutral-800 rounded-sm bg-neutral-900/50">
-              <Mail size={16} className="text-amber-400 flex-shrink-0" aria-hidden="true" />
-              <p className="text-sm text-neutral-400">
+            {/* Email note */}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '1rem 1.5rem', border: '1px solid #e5e5e5', borderRadius: '2px', backgroundColor: '#fafafa' }}>
+              <Mail size={16} style={{ color: '#f97316', flexShrink: 0 }} aria-hidden="true" />
+              <p style={{ fontSize: '0.875rem', color: '#737373', margin: 0 }}>
                 Prefer email?{' '}
                 <a
                   href="mailto:contact@wehventures.com"
                   aria-label="Email WEH Ventures at contact@wehventures.com"
-                  className="text-white hover:text-amber-400 transition-colors font-medium"
+                  style={{ color: '#0a0a0a', fontWeight: 600, textDecoration: 'none', borderBottom: '1px solid #0a0a0a' }}
+                  onMouseEnter={e => e.currentTarget.style.color = '#f97316'}
+                  onMouseLeave={e => e.currentTarget.style.color = '#0a0a0a'}
                 >
                   contact@wehventures.com
                 </a>
               </p>
             </div>
+          </AnimatedSection>
+        </div>
+      </section>
+
+      {/* Black strip */}
+      <section aria-labelledby="contact-note" style={{ backgroundColor: '#0a0a0a', padding: '5rem 0' }}>
+        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+          <AnimatedSection>
+            <p style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(1.5rem, 3vw, 2.5rem)', fontWeight: 900, color: '#ffffff', textTransform: 'uppercase', lineHeight: 1.1, maxWidth: '40rem' }}>
+              We're a small team. Every email gets read.{' '}
+              <span style={{ color: '#f97316' }}>Every founder gets a response.</span>
+            </p>
           </AnimatedSection>
         </div>
       </section>

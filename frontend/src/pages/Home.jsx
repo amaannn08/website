@@ -1,13 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
-import { ArrowUpRight, TrendingUp, DollarSign, Award } from 'lucide-react';
+import { ArrowUpRight } from 'lucide-react';
 import AnimatedSection from '../components/ui/AnimatedSection';
 
-// ─── Stats ────────────────────────────────────────────────
-const stats = [
-  { icon: TrendingUp, value: '50%', label: 'of portfolio companies raised follow-on from other VCs' },
-  { icon: DollarSign, value: '$320M', label: 'cumulative raised by portfolio' },
-  { icon: Award, value: '20%', label: 'Net IRR (WEH II vs 11.3% median — CRISIL rated)' },
-];
+
 
 // ─── Featured portfolio ────────────────────────────────────
 const featured = [
@@ -152,24 +147,7 @@ export default function Home() {
         <style>{`@keyframes bounce { 0%,100%{transform:translateX(-50%) translateY(0)} 50%{transform:translateX(-50%) translateY(6px)} }`}</style>
       </section>
 
-      {/* ── Stats bar ─────────────────────────────────────── */}
-      <section aria-label="Key metrics" style={{ borderTop: '1px solid #e5e5e5', borderBottom: '1px solid #e5e5e5', backgroundColor: '#fafafa' }}>
-        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '3rem 2rem' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '2rem' }}>
-            {stats.map(({ icon: Icon, value, label }, i) => (
-              <AnimatedSection key={i} delay={i * 100} className="flex items-start gap-4">
-                <div style={{ width: '40px', height: '40px', flexShrink: 0, backgroundColor: 'rgba(249,115,22,0.1)', borderRadius: '2px', display: 'flex', alignItems: 'center', justifyContent: 'center', marginTop: '4px' }} aria-hidden="true">
-                  <Icon size={18} style={{ color: '#f97316' }} />
-                </div>
-                <div>
-                  <p style={{ fontFamily: "'Syne', sans-serif", fontSize: '2rem', fontWeight: 900, color: '#0a0a0a', margin: '0 0 4px' }}>{value}</p>
-                  <p style={{ fontSize: '0.8rem', color: '#737373', lineHeight: 1.5, margin: 0 }}>{label}</p>
-                </div>
-              </AnimatedSection>
-            ))}
-          </div>
-        </div>
-      </section>
+
 
       {/* ── Investment focus ───────────────────────────────── */}
       <section aria-labelledby="invest-heading" style={{ padding: '6rem 0', backgroundColor: '#ffffff' }}>

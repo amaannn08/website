@@ -6,15 +6,17 @@ const team = [
     id: 'deepak-gupta',
     name: 'Deepak Gupta',
     role: 'Partner',
-    bio: 'The transformation optimist who\'s been around long enough to type emails on monochrome screens. Loves spotting unlabeled founders with inchoate ideas and helping them come to fruition. Gets kicks from deals and shaping things for the fund — from capital allocation to team development.',
+    bio: "The transformation optimist who's been around long enough to type emails on monochrome screens. Can be found trying to figure out what India needs next. Loves spotting 'unlabeled' founders with inchoate ideas and helping them come to fruition. Gets kicks from deals and shaping things for the fund — from capital allocation to team development.",
     initial: 'D',
+    isPartner: true,
   },
   {
     id: 'rohit-krishna',
     name: 'Rohit Krishna',
     role: 'Partner',
-    bio: 'Started with corporate bonds at Moody\'s, tried listed equity at Spark Capital, then fell hard for early-stage investing in 2015. Spends too much time playing with new consumer products. Believes in-person meetings > phone calls > Zoom.',
+    bio: "Started with corporate bonds at Moody's, tried listed equity at Spark Capital, then fell hard for early-stage investing in 2015. Spends way too much time playing with new consumer products. Always up for beer at Toit or coffee at Paper & Pie. Believes in-person meetings > phone calls > Zoom.",
     initial: 'R',
+    isPartner: true,
   },
   {
     id: 'ritik-rustagi',
@@ -22,6 +24,7 @@ const team = [
     role: 'Investment Team',
     bio: 'Endlessly curious about how different businesses work and how founders disrupt the status quo. Background spans equity analysis, hedge fund internships, running consultancy cells, and reading classics.',
     initial: 'R',
+    isPartner: false,
   },
   {
     id: 'ayush-sahoo',
@@ -29,6 +32,7 @@ const team = [
     role: 'Investment Team',
     bio: 'Started at ITC across large-scale FMCG operations, then moved into early-stage investing. Focuses on go-to-market strategy, unit economics, and AI workflows. Studied engineering at IIT Kharagpur. Preference for first-principles thinking over narrative-driven slides.',
     initial: 'A',
+    isPartner: false,
   },
   {
     id: 'ayush-tyagi',
@@ -36,128 +40,99 @@ const team = [
     role: 'Investment Team',
     bio: 'Mathematics grad with a focus on understanding investing across company life cycles. Background spanning Private Equity and Public Markets. Hunts for public market compounders on weekends. Avid movie buff.',
     initial: 'A',
+    isPartner: false,
   },
 ];
 
-const roleColors = {
-  Partner: '#fbbf24',
-  'Investment Team': '#404040',
-};
-
 export default function Team() {
-  useEffect(() => {
-    document.title = 'Team | WEH Ventures';
-  }, []);
+  useEffect(() => { document.title = 'Team | WEH Ventures'; }, []);
+
+  const partners = team.filter(m => m.isPartner);
+  const analysts = team.filter(m => !m.isPartner);
 
   return (
     <main id="main-content">
+
       {/* Hero */}
-      <section aria-label="Page hero" className="relative pt-40 pb-20 overflow-hidden">
-        <div
-          className="absolute inset-0 pointer-events-none"
-          style={{
-            backgroundImage:
-              'linear-gradient(rgba(251,191,36,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(251,191,36,0.03) 1px, transparent 1px)',
-            backgroundSize: '60px 60px',
-          }}
-          aria-hidden="true"
-        />
-        <div className="max-w-7xl mx-auto px-6 lg:px-8 animate-fade-in-up">
-          <p className="text-xs font-semibold tracking-widest uppercase text-amber-400 mb-6">
-            The Team
-          </p>
-          <h1
-            className="text-5xl md:text-7xl font-black text-white leading-none mb-6"
-            style={{ fontFamily: "'Syne', sans-serif" }}
-          >
-            Small army.
-            <br />
-            <span className="text-amber-400">Huge conviction.</span>
-          </h1>
-          <p className="text-lg text-neutral-400 max-w-xl leading-relaxed">
-            Over 8,000 conversations, countless coffee meetings, and hundreds
-            of late-night debates about whether an idea has legs.
-          </p>
+      <section aria-label="Page hero" style={{ backgroundColor: '#ffffff', paddingTop: '64px' }}>
+        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
+          <div className="animate-fade-in-up" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '3rem', alignItems: 'end' }}>
+            <div>
+              <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '0.75rem' }}>The Team</p>
+              <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: 0, letterSpacing: '-0.02em' }}>
+                Small army.<br />
+                <span style={{ color: '#f97316' }}>Huge conviction.</span>
+              </h1>
+            </div>
+            <div>
+              <p style={{ fontSize: '1rem', color: '#737373', lineHeight: 1.7, maxWidth: '30rem', margin: 0 }}>
+                Over 8,000 conversations, countless coffee meetings, and hundreds of late-night debates about whether an idea has legs.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+          <div style={{ height: '4px', width: '120px', backgroundColor: '#f97316' }} />
         </div>
       </section>
 
-      {/* Team grid */}
-      <section aria-labelledby="team-grid-heading" className="pb-32">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          <h2 id="team-grid-heading" className="sr-only">Team Members</h2>
-
-          {/* Partners row */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-            {team
-              .filter((m) => m.role === 'Partner')
-              .map((member, i) => (
-                <AnimatedSection key={member.id} delay={i * 100}>
-                  <article
-                    aria-labelledby={`name-${member.id}`}
-                    className="group h-full p-8 border border-neutral-800 hover:border-amber-400 bg-neutral-900 rounded-sm transition-all duration-300"
-                  >
-                    <div className="flex items-center gap-4 mb-6">
-                      <div
-                        className="w-14 h-14 rounded-sm flex items-center justify-center text-black font-black text-xl flex-shrink-0"
-                        style={{ backgroundColor: '#fbbf24' }}
-                        aria-hidden="true"
-                      >
-                        {member.initial}
-                      </div>
-                      <div>
-                        <h3
-                          id={`name-${member.id}`}
-                          className="text-xl font-bold text-white"
-                          style={{ fontFamily: "'Syne', sans-serif" }}
-                        >
-                          {member.name}
-                        </h3>
-                        <span className="inline-block mt-1 text-xs font-semibold tracking-wide px-2 py-0.5 rounded-full bg-amber-400/10 text-amber-400 border border-amber-400/20">
-                          {member.role}
-                        </span>
-                      </div>
-                    </div>
-                    <p className="text-neutral-400 leading-relaxed text-sm">{member.bio}</p>
-                  </article>
-                </AnimatedSection>
-              ))}
+      {/* Partners */}
+      <section aria-labelledby="partners-heading" style={{ backgroundColor: '#ffffff', padding: '4rem 0 0' }}>
+        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+          <h2 id="partners-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '2rem' }}>Partners</h2>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1px', backgroundColor: '#e5e5e5', border: '1px solid #e5e5e5', marginBottom: '1px' }}>
+            {partners.map((member, i) => (
+              <AnimatedSection key={member.id} delay={i * 100}>
+                <article
+                  aria-labelledby={`name-${member.id}`}
+                  style={{ backgroundColor: '#ffffff', padding: '2.5rem', height: '100%', boxSizing: 'border-box', transition: 'background-color 0.15s' }}
+                  onMouseEnter={e => e.currentTarget.style.backgroundColor = '#fff7ed'}
+                  onMouseLeave={e => e.currentTarget.style.backgroundColor = '#ffffff'}
+                >
+                  {/* Avatar */}
+                  <div style={{ width: '64px', height: '64px', backgroundColor: '#0a0a0a', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '2px', marginBottom: '1.5rem' }} aria-hidden="true">
+                    <span style={{ color: '#f97316', fontWeight: 900, fontSize: '1.5rem', fontFamily: "'Syne', sans-serif" }}>{member.initial}</span>
+                  </div>
+                  <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.25rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.375rem', letterSpacing: '0.02em' }}>
+                    {member.name}
+                  </h3>
+                  <span style={{ display: 'inline-block', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1.25rem', borderBottom: '1px solid #f97316', paddingBottom: '1px' }}>
+                    {member.role}
+                  </span>
+                  <p style={{ fontSize: '0.875rem', color: '#737373', lineHeight: 1.75, margin: 0 }}>{member.bio}</p>
+                </article>
+              </AnimatedSection>
+            ))}
           </div>
+        </div>
+      </section>
 
-          {/* Investment team row */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {team
-              .filter((m) => m.role === 'Investment Team')
-              .map((member, i) => (
-                <AnimatedSection key={member.id} delay={i * 80}>
-                  <article
-                    aria-labelledby={`name-${member.id}`}
-                    className="group h-full p-8 border border-neutral-800 hover:border-amber-400 bg-neutral-900 rounded-sm transition-all duration-300"
-                  >
-                    <div className="flex items-center gap-4 mb-6">
-                      <div
-                        className="w-12 h-12 rounded-sm flex items-center justify-center text-white font-black text-base flex-shrink-0"
-                        style={{ backgroundColor: '#2d2d2d', border: '1px solid #3d3d3d' }}
-                        aria-hidden="true"
-                      >
-                        {member.initial}
-                      </div>
-                      <div>
-                        <h3
-                          id={`name-${member.id}`}
-                          className="text-lg font-bold text-white"
-                          style={{ fontFamily: "'Syne', sans-serif" }}
-                        >
-                          {member.name}
-                        </h3>
-                        <span className="inline-block mt-1 text-xs font-semibold tracking-wide px-2 py-0.5 rounded-full bg-neutral-800 text-neutral-400 border border-neutral-700">
-                          {member.role}
-                        </span>
-                      </div>
-                    </div>
-                    <p className="text-neutral-400 leading-relaxed text-sm">{member.bio}</p>
-                  </article>
-                </AnimatedSection>
-              ))}
+      {/* Investment Team */}
+      <section aria-labelledby="investment-team-heading" style={{ backgroundColor: '#ffffff', padding: '2rem 0 6rem' }}>
+        <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+          <h2 id="investment-team-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '2rem' }}>Investment Team</h2>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1px', backgroundColor: '#e5e5e5', border: '1px solid #e5e5e5' }}>
+            {analysts.map((member, i) => (
+              <AnimatedSection key={member.id} delay={i * 80}>
+                <article
+                  aria-labelledby={`name-${member.id}`}
+                  style={{ backgroundColor: '#ffffff', padding: '2rem', height: '100%', boxSizing: 'border-box', transition: 'background-color 0.15s' }}
+                  onMouseEnter={e => e.currentTarget.style.backgroundColor = '#fff7ed'}
+                  onMouseLeave={e => e.currentTarget.style.backgroundColor = '#ffffff'}
+                >
+                  <div style={{ width: '48px', height: '48px', backgroundColor: '#fafafa', border: '1px solid #e5e5e5', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '2px', marginBottom: '1.25rem' }} aria-hidden="true">
+                    <span style={{ color: '#0a0a0a', fontWeight: 900, fontSize: '1rem', fontFamily: "'Syne', sans-serif" }}>{member.initial}</span>
+                  </div>
+                  <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.25rem', letterSpacing: '0.02em' }}>
+                    {member.name}
+                  </h3>
+                  <span style={{ display: 'inline-block', fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '1rem' }}>
+                    {member.role}
+                  </span>
+                  <p style={{ fontSize: '0.8125rem', color: '#737373', lineHeight: 1.7, margin: 0 }}>{member.bio}</p>
+                </article>
+              </AnimatedSection>
+            ))}
           </div>
         </div>
       </section>

@@ -6,10 +6,10 @@ import AnimatedSection from '../components/ui/AnimatedSection';
 
 // ─── Featured portfolio ────────────────────────────────────
 const featured = [
-  { name: 'MasterChow', tagline: 'Ready-to-cook Asian cuisine', backed: 'Anicut · Surge · Tanglin' },
-  { name: 'Jar', tagline: 'Digital gold savings for Bharat', backed: 'Tiger Global' },
-  { name: 'Smallcase', tagline: 'Passive investing platform', backed: 'PeakXV · Arkam · Faering' },
-  { name: 'Apps for Bharat', tagline: 'Spiritual super app', backed: 'Elevation · Fundamentum · SIG' },
+  { name: 'MasterChow', tagline: 'Ready-to-cook Asian cuisine', backed: 'Anicut · Surge · Tanglin', logo: 'https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png' },
+  { name: 'Jar', tagline: 'Digital gold savings for Bharat', backed: 'Tiger Global', logo: 'https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png' },
+  { name: 'Smallcase', tagline: 'Passive investing platform', backed: 'PeakXV · Arkam · Faering', logo: 'https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png' },
+  { name: 'Apps for Bharat', tagline: 'Spiritual super app', backed: 'Elevation · Fundamentum · SIG', logo: 'https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png' },
 ];
 
 // ─── Testimonials ──────────────────────────────────────────
@@ -177,7 +177,7 @@ export default function Home() {
             </h2>
           </AnimatedSection>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '1rem' }}>
-            {featured.map(({ name, tagline, backed }, i) => (
+            {featured.map(({ name, tagline, backed, logo }, i) => (
               <AnimatedSection
                 key={name}
                 delay={i * 80}
@@ -186,8 +186,8 @@ export default function Home() {
                 onMouseEnter={e => { e.currentTarget.style.borderColor = '#f97316'; e.currentTarget.style.boxShadow = '0 4px 16px rgba(249,115,22,0.1)'; }}
                 onMouseLeave={e => { e.currentTarget.style.borderColor = '#e5e5e5'; e.currentTarget.style.boxShadow = 'none'; }}
               >
-                <div style={{ width: '40px', height: '40px', borderRadius: '2px', backgroundColor: '#c2410c', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontWeight: 900, fontSize: '0.875rem', marginBottom: '1.5rem' }} aria-hidden="true">
-                  {name[0]}
+                <div style={{ width: '48px', height: '48px', borderRadius: '8px', overflow: 'hidden', marginBottom: '1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#f5f5f5' }} aria-hidden="true">
+                  <img src={logo} alt={name} style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
                 </div>
                 <h3 style={{ fontFamily: "'Syne', sans-serif", fontSize: '1rem', fontWeight: 700, color: '#0a0a0a', marginBottom: '0.5rem' }}>{name}</h3>
                 <p style={{ fontSize: '0.8rem', color: '#525252', marginBottom: '1rem', lineHeight: 1.5 }}>{tagline}</p>

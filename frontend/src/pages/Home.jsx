@@ -43,7 +43,7 @@ function TestimonialCarousel() {
           <p style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.25rem', color: '#0a0a0a', lineHeight: 1.6, marginBottom: '2rem' }}>
             "{t.quote}"
           </p>
-          <footer style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
             <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: '#c2410c', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', flexShrink: 0 }} aria-hidden="true">
               {t.name[0]}
             </div>
@@ -51,7 +51,7 @@ function TestimonialCarousel() {
               <p style={{ color: '#0a0a0a', fontWeight: 600, fontSize: '0.875rem', margin: 0 }}>{t.name}</p>
               <p style={{ color: '#525252', fontSize: '0.75rem', margin: 0 }}>{t.title}</p>
             </div>
-          </footer>
+          </div>
         </blockquote>
       </div>
 
@@ -121,7 +121,7 @@ export default function Home() {
               href="https://forms.gle/2156kxYjbMqcsyJe7"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Submit your pitch to WEH Ventures (opens external form)"
+              aria-label="Pitch to Us — Submit your pitch to WEH Ventures (opens external form)"
               style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#c2410c', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', letterSpacing: '0.05em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.2s' }}
               onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
               onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}
@@ -131,7 +131,7 @@ export default function Home() {
             <a
               href="/portfolio"
               style={{ display: 'inline-flex', alignItems: 'center', minHeight: '52px', padding: '0 2rem', border: '1px solid rgba(255,255,255,0.6)', color: 'rgba(255,255,255,0.8)', fontWeight: 500, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'border-color 0.2s, color 0.2s' }}
-              aria-label="View our portfolio companies"
+              aria-label="View Portfolio — View our portfolio companies"
               onMouseEnter={e => { e.currentTarget.style.borderColor = '#f97316'; e.currentTarget.style.color = '#f97316'; }}
               onMouseLeave={e => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.6)'; e.currentTarget.style.color = 'rgba(255,255,255,0.8)'; }}
             >
@@ -227,7 +227,7 @@ export default function Home() {
               href="https://forms.gle/2156kxYjbMqcsyJe7"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Submit your pitch to WEH Ventures (opens external form)"
+              aria-label="Pitch to Us — Submit your pitch to WEH Ventures (opens external form)"
               style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2.5rem', backgroundColor: '#c2410c', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.2s' }}
               onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
               onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}

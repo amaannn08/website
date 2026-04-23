@@ -71,7 +71,7 @@ export default function Approach() {
           <a
             href="https://forms.gle/2156kxYjbMqcsyJe7"
             target="_blank" rel="noopener noreferrer"
-            aria-label="Say hello — submit your pitch to WEH Ventures (opens external form)"
+            aria-label="Say Hello — Submit your pitch to WEH Ventures (opens external form)"
             style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#ffffff', color: '#c2410c', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', whiteSpace: 'nowrap' }}
             onMouseEnter={e => { e.currentTarget.style.backgroundColor = '#0a0a0a'; e.currentTarget.style.color = '#ffffff'; }}
             onMouseLeave={e => { e.currentTarget.style.backgroundColor = '#ffffff'; e.currentTarget.style.color = '#c2410c'; }}

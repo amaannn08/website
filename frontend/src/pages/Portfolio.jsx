@@ -33,14 +33,14 @@ const portfolio = [
 ];
 
 const sectorColors = {
-  Fintech:           { bg: 'rgba(249,115,22,0.08)', text: '#ea580c', border: 'rgba(249,115,22,0.25)' },
-  'Deeptech & AI':   { bg: 'rgba(99,102,241,0.08)', text: '#6366f1', border: 'rgba(99,102,241,0.2)' },
-  'Consumer Tech':   { bg: 'rgba(16,185,129,0.08)', text: '#059669', border: 'rgba(16,185,129,0.2)' },
-  'Agri-Tech':       { bg: 'rgba(20,184,166,0.08)', text: '#0d9488', border: 'rgba(20,184,166,0.2)' },
-  Sustainability:    { bg: 'rgba(101,163,13,0.08)', text: '#65a30d', border: 'rgba(101,163,13,0.2)' },
-  'Supply Chain':    { bg: 'rgba(245,158,11,0.08)', text: '#d97706', border: 'rgba(245,158,11,0.2)' },
-  'Health & Wellness': { bg: 'rgba(236,72,153,0.08)', text: '#db2777', border: 'rgba(236,72,153,0.2)' },
-  Brands:            { bg: 'rgba(249,115,22,0.06)', text: '#f97316', border: 'rgba(249,115,22,0.18)' },
+  Fintech:           { bg: 'rgba(249,115,22,0.08)', text: '#c2410c', border: 'rgba(249,115,22,0.25)' },
+  'Deeptech & AI':   { bg: 'rgba(99,102,241,0.08)', text: '#4f46e5', border: 'rgba(99,102,241,0.2)' },
+  'Consumer Tech':   { bg: 'rgba(16,185,129,0.08)', text: '#065f46', border: 'rgba(16,185,129,0.2)' },
+  'Agri-Tech':       { bg: 'rgba(20,184,166,0.08)', text: '#0f766e', border: 'rgba(20,184,166,0.2)' },
+  Sustainability:    { bg: 'rgba(101,163,13,0.08)', text: '#4d7c0f', border: 'rgba(101,163,13,0.2)' },
+  'Supply Chain':    { bg: 'rgba(245,158,11,0.08)', text: '#b45309', border: 'rgba(245,158,11,0.2)' },
+  'Health & Wellness': { bg: 'rgba(236,72,153,0.08)', text: '#be185d', border: 'rgba(236,72,153,0.2)' },
+  Brands:            { bg: 'rgba(249,115,22,0.06)', text: '#c2410c', border: 'rgba(249,115,22,0.18)' },
 };
 
 function SectorTag({ sector }) {
@@ -104,15 +104,15 @@ export default function Portfolio() {
                     fontSize: '0.75rem',
                     fontWeight: 700,
                     letterSpacing: '0.04em',
-                    border: isActive ? '1px solid #f97316' : '1px solid #e5e5e5',
-                    backgroundColor: isActive ? '#f97316' : '#ffffff',
+                    border: isActive ? '1px solid #c2410c' : '1px solid #e5e5e5',
+                    backgroundColor: isActive ? '#c2410c' : '#ffffff',
                     color: isActive ? '#ffffff' : '#737373',
                     borderRadius: '2px',
                     cursor: 'pointer',
                     transition: 'all 0.15s',
                     fontFamily: "'Inter', sans-serif",
                   }}
-                  onMouseEnter={e => { if (!isActive) { e.currentTarget.style.borderColor = '#f97316'; e.currentTarget.style.color = '#f97316'; } }}
+                  onMouseEnter={e => { if (!isActive) { e.currentTarget.style.borderColor = '#c2410c'; e.currentTarget.style.color = '#c2410c'; } }}
                   onMouseLeave={e => { if (!isActive) { e.currentTarget.style.borderColor = '#e5e5e5'; e.currentTarget.style.color = '#737373'; } }}
                 >
                   {f}
@@ -160,7 +160,7 @@ export default function Portfolio() {
                       )}
                     </div>
                     {company.status && (
-                      <span style={{ fontSize: '0.6rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#c2410c', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase', flexShrink: 0 }} aria-label={`Status: ${company.status}`}>
+                      <span style={{ fontSize: '0.6rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#c2410c', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase', flexShrink: 0 }} >
                         {company.status}
                       </span>
                     )}

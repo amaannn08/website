@@ -29,14 +29,14 @@ export default function Contact() {
       </section>
 
       {/* CTA block */}
-      <section aria-labelledby="contact-cta" style={{ backgroundColor: '#ffffff', padding: '5rem 0' }}>
+      <section aria-label="Contact Call to Action" style={{ backgroundColor: '#ffffff', padding: '5rem 0' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
           <AnimatedSection style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '2rem' }}>
             <a
               href="https://forms.gle/2156kxYjbMqcsyJe7"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Submit your pitch to WEH Ventures (opens external Google Form)"
+              aria-label="Submit Your Pitch to WEH Ventures (opens external Google Form)"
               style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', minHeight: '56px', padding: '0 2.5rem', backgroundColor: '#c2410c', color: '#ffffff', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', letterSpacing: '0.08em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.15s' }}
               onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
               onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}
@@ -54,7 +54,7 @@ export default function Contact() {
                   href="mailto:contact@wehventures.com"
                   aria-label="Email WEH Ventures at contact@wehventures.com"
                   style={{ color: '#0a0a0a', fontWeight: 600, textDecoration: 'none', borderBottom: '1px solid #0a0a0a' }}
-                  onMouseEnter={e => e.currentTarget.style.color = '#f97316'}
+                  onMouseEnter={e => e.currentTarget.style.color = '#c2410c'}
                   onMouseLeave={e => e.currentTarget.style.color = '#0a0a0a'}
                 >
                   contact@wehventures.com
@@ -66,7 +66,7 @@ export default function Contact() {
       </section>
 
       {/* Black strip */}
-      <section aria-labelledby="contact-note" style={{ backgroundColor: '#0a0a0a', padding: '5rem 0' }}>
+      <section aria-label="Contact Note" style={{ backgroundColor: '#0a0a0a', padding: '5rem 0' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
           <AnimatedSection>
             <p style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(1.5rem, 3vw, 2.5rem)', fontWeight: 900, color: '#ffffff', textTransform: 'uppercase', lineHeight: 1.1, maxWidth: '40rem' }}>

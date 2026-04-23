@@ -62,7 +62,7 @@ export default function Navbar() {
             href="https://forms.gle/2156kxYjbMqcsyJe7"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Submit your pitch to WEH Ventures (opens external form)"
+            aria-label="Pitch to Us — Submit your pitch to WEH Ventures (opens external form)"
             style={{
               display: 'inline-flex', alignItems: 'center',
               minHeight: '40px', padding: '0 1.25rem',
@@ -124,7 +124,7 @@ export default function Navbar() {
             href="https://forms.gle/2156kxYjbMqcsyJe7"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Submit your pitch to WEH Ventures (opens external form)"
+            aria-label="Pitch to Us — Submit your pitch to WEH Ventures (opens external form)"
             style={{ display: 'flex', justifyContent: 'center', minHeight: '44px', padding: '0.75rem 1.5rem', backgroundColor: '#c2410c', color: '#ffffff', fontSize: '0.8rem', fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', marginTop: '0.5rem' }}
           >
             Pitch to Us

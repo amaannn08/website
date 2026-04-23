@@ -15,40 +15,38 @@ const legalLinks = [
 
 export default function Footer() {
   return (
-    <footer className="border-t border-neutral-800 bg-neutral-950 pt-16 pb-8">
-      <div className="max-w-7xl mx-auto px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
+    <footer style={{ backgroundColor: '#0a0a0a', borderTop: '1px solid rgba(249,115,22,0.15)', paddingTop: '4rem', paddingBottom: '2rem' }}>
+      <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
+
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '3rem', marginBottom: '3rem' }}>
           {/* Brand */}
-          <div className="md:col-span-2">
-            <div className="flex items-baseline gap-2 mb-4">
-              <span
-                className="text-3xl font-black tracking-tight"
-                style={{ fontFamily: "'Syne', sans-serif", color: '#fbbf24' }}
-              >
-                WEH
-              </span>
-              <span className="text-white text-sm font-medium tracking-widest uppercase opacity-60">
-                Ventures
-              </span>
+          <div style={{ gridColumn: 'span 2' }}>
+            <div style={{ marginBottom: '1rem' }}>
+              <img
+                src="/images/logo-white.svg"
+                alt="WEH Ventures"
+                style={{ height: '36px', width: 'auto' }}
+              />
             </div>
-            <p className="text-neutral-400 text-sm leading-relaxed max-w-sm">
-              WEH is a high-conviction, early-stage venture fund. We invest in
-              high-potential founders building what the market doesn't yet have.
+            <p style={{ color: 'rgba(255,255,255,0.45)', fontSize: '0.875rem', lineHeight: 1.7, maxWidth: '360px' }}>
+              WEH is a high-conviction, early-stage venture fund. We invest in high-potential founders building what the market doesn't yet have.
             </p>
           </div>
 
           {/* Nav */}
           <div>
-            <p className="text-xs font-semibold tracking-widest uppercase text-neutral-500 mb-4">
+            <p style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>
               Pages
             </p>
-            <nav aria-label="Footer navigation" className="flex flex-col gap-3">
+            <nav aria-label="Footer navigation" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
               {footerNav.map(({ to, label }) => (
                 <Link
                   key={to}
                   to={to}
                   aria-label={`Navigate to ${label} page`}
-                  className="text-sm text-neutral-400 hover:text-amber-400 transition-colors duration-200 w-fit"
+                  style={{ fontSize: '0.875rem', color: 'rgba(255,255,255,0.5)', textDecoration: 'none', transition: 'color 0.2s', width: 'fit-content' }}
+                  onMouseEnter={e => e.currentTarget.style.color = '#f97316'}
+                  onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.5)'}
                 >
                   {label}
                 </Link>
@@ -58,17 +56,17 @@ export default function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="border-t border-neutral-800 pt-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-          <p className="text-xs text-neutral-600">
-            © 2025 WEH Ventures
-          </p>
-          <div className="flex flex-wrap gap-4">
+        <div style={{ borderTop: '1px solid rgba(255,255,255,0.07)', paddingTop: '1.5rem', display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '1rem' }}>
+          <p style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.25)' }}>© 2025 WEH Ventures</p>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1.5rem' }}>
             {legalLinks.map(({ label, href }) => (
               <a
                 key={label}
                 href={href}
                 aria-label={`Read our ${label}`}
-                className="text-xs text-neutral-600 hover:text-neutral-400 transition-colors"
+                style={{ fontSize: '0.7rem', color: 'rgba(255,255,255,0.25)', textDecoration: 'none', transition: 'color 0.2s' }}
+                onMouseEnter={e => e.currentTarget.style.color = 'rgba(255,255,255,0.5)'}
+                onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.25)'}
               >
                 {label}
               </a>

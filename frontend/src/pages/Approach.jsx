@@ -21,10 +21,10 @@ export default function Approach() {
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
           <div className="animate-fade-in-up" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '3rem', alignItems: 'end' }}>
             <div>
-              <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>Our Philosophy</p>
+              <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>Our Philosophy</p>
               <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: 0, letterSpacing: '-0.02em' }}>
                 Backing founders<br />
-                <span style={{ color: '#f97316' }}>who blaze</span><br />
+                <span style={{ color: '#c2410c' }}>who blaze</span><br />
                 their own trail.
               </h1>
             </div>
@@ -36,7 +36,7 @@ export default function Approach() {
           </div>
         </div>
         <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <div style={{ height: '4px', width: '120px', backgroundColor: '#f97316' }} />
+          <div style={{ height: '4px', width: '120px', backgroundColor: '#c2410c' }} />
         </div>
       </section>
 
@@ -52,7 +52,7 @@ export default function Approach() {
               <span style={{ fontFamily: "'Syne', sans-serif", fontSize: '2.5rem', fontWeight: 900, color: '#e5e5e5', lineHeight: 1, userSelect: 'none' }} aria-hidden="true">{number}</span>
               <div>
                 <h2 style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.125rem', fontWeight: 800, color: '#0a0a0a', marginBottom: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.02em' }}>{heading}</h2>
-                <p style={{ fontSize: '0.9375rem', color: '#737373', lineHeight: 1.75, maxWidth: '40rem', margin: 0 }}>{body}</p>
+                <p style={{ fontSize: '0.9375rem', color: '#525252', lineHeight: 1.75, maxWidth: '40rem', margin: 0 }}>{body}</p>
               </div>
             </AnimatedSection>
           ))}
@@ -60,7 +60,7 @@ export default function Approach() {
       </section>
 
       {/* CTA — orange */}
-      <section aria-labelledby="approach-cta-heading" style={{ backgroundColor: '#f97316', padding: '5rem 0' }}>
+      <section aria-labelledby="approach-cta-heading" style={{ backgroundColor: '#c2410c', padding: '5rem 0' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem', display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '2rem' }}>
           <div>
             <h2 id="approach-cta-heading" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2rem, 3.5vw, 3rem)', fontWeight: 900, color: '#ffffff', textTransform: 'uppercase', margin: '0 0 0.25rem', letterSpacing: '-0.01em' }}>
@@ -72,7 +72,7 @@ export default function Approach() {
             href="https://forms.gle/2156kxYjbMqcsyJe7"
             target="_blank" rel="noopener noreferrer"
             aria-label="Say hello — submit your pitch to WEH Ventures (opens external form)"
-            style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#ffffff', color: '#f97316', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', whiteSpace: 'nowrap' }}
+            style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#ffffff', color: '#c2410c', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', whiteSpace: 'nowrap' }}
             onMouseEnter={e => { e.currentTarget.style.backgroundColor = '#0a0a0a'; e.currentTarget.style.color = '#ffffff'; }}
             onMouseLeave={e => { e.currentTarget.style.backgroundColor = '#ffffff'; e.currentTarget.style.color = '#f97316'; }}
           >

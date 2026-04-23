@@ -12,19 +12,19 @@ export default function Contact() {
       <section aria-label="Contact hero" style={{ backgroundColor: '#ffffff', paddingTop: '64px' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
           <div className="animate-fade-in-up" style={{ maxWidth: '50rem' }}>
-            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>Get in Touch</p>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>Get in Touch</p>
             <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 7vw, 6rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: '0 0 1.5rem', letterSpacing: '-0.02em' }}>
               Let's build the next{' '}
-              <span style={{ color: '#f97316' }}>category</span>
+              <span style={{ color: '#c2410c' }}>category</span>
               {' '}— together.
             </h1>
-            <p style={{ fontSize: '1.125rem', color: '#737373', lineHeight: 1.7, maxWidth: '32rem', margin: 0 }}>
+            <p style={{ fontSize: '1.125rem', color: '#525252', lineHeight: 1.7, maxWidth: '32rem', margin: 0 }}>
               Got an untitled idea or an early prototype? We'd love to hear from you.
             </p>
           </div>
         </div>
         <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <div style={{ height: '4px', width: '120px', backgroundColor: '#f97316' }} />
+          <div style={{ height: '4px', width: '120px', backgroundColor: '#c2410c' }} />
         </div>
       </section>
 
@@ -37,9 +37,9 @@ export default function Contact() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Submit your pitch to WEH Ventures (opens external Google Form)"
-              style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', minHeight: '56px', padding: '0 2.5rem', backgroundColor: '#f97316', color: '#ffffff', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', letterSpacing: '0.08em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.15s' }}
-              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#ea580c'}
-              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#f97316'}
+              style={{ display: 'inline-flex', alignItems: 'center', gap: '10px', minHeight: '56px', padding: '0 2.5rem', backgroundColor: '#c2410c', color: '#ffffff', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', letterSpacing: '0.08em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.15s' }}
+              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
+              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}
             >
               Submit Your Pitch
               <ArrowUpRight size={18} aria-hidden="true" />
@@ -47,8 +47,8 @@ export default function Contact() {
 
             {/* Email note */}
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '1rem 1.5rem', border: '1px solid #e5e5e5', borderRadius: '2px', backgroundColor: '#fafafa' }}>
-              <Mail size={16} style={{ color: '#f97316', flexShrink: 0 }} aria-hidden="true" />
-              <p style={{ fontSize: '0.875rem', color: '#737373', margin: 0 }}>
+              <Mail size={16} style={{ color: '#c2410c', flexShrink: 0 }} aria-hidden="true" />
+              <p style={{ fontSize: '0.875rem', color: '#525252', margin: 0 }}>
                 Prefer email?{' '}
                 <a
                   href="mailto:contact@wehventures.com"
@@ -71,7 +71,7 @@ export default function Contact() {
           <AnimatedSection>
             <p style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(1.5rem, 3vw, 2.5rem)', fontWeight: 900, color: '#ffffff', textTransform: 'uppercase', lineHeight: 1.1, maxWidth: '40rem' }}>
               We're a small team. Every email gets read.{' '}
-              <span style={{ color: '#f97316' }}>Every founder gets a response.</span>
+              <span style={{ color: '#c2410c' }}>Every founder gets a response.</span>
             </p>
           </AnimatedSection>
         </div>

@@ -62,25 +62,25 @@ export default function Team() {
       <section aria-label="Page hero" style={{ backgroundColor: '#ffffff', paddingTop: '64px' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
           <div className="animate-fade-in-up">
-            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '0.75rem' }}>The Team</p>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '0.75rem' }}>The Team</p>
             <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: '0 0 1.5rem', letterSpacing: '-0.02em' }}>
               Small army.<br />
-              <span style={{ color: '#f97316' }}>Huge conviction.</span>
+              <span style={{ color: '#c2410c' }}>Huge conviction.</span>
             </h1>
-            <p style={{ fontSize: '1rem', color: '#737373', lineHeight: 1.7, maxWidth: '36rem', margin: 0 }}>
+            <p style={{ fontSize: '1rem', color: '#525252', lineHeight: 1.7, maxWidth: '36rem', margin: 0 }}>
               Over 8,000 conversations, countless coffee meetings, and hundreds of late-night debates about whether an idea has legs.
             </p>
           </div>
         </div>
         <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <div style={{ height: '4px', width: '120px', backgroundColor: '#f97316' }} />
+          <div style={{ height: '4px', width: '120px', backgroundColor: '#c2410c' }} />
         </div>
       </section>
 
       {/* Partners */}
       <section aria-labelledby="partners-heading" style={{ backgroundColor: '#ffffff', padding: '4rem 0 0' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <h2 id="partners-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '2rem' }}>Partners</h2>
+          <h2 id="partners-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#525252', marginBottom: '2rem' }}>Partners</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1px', backgroundColor: '#e5e5e5', border: '1px solid #e5e5e5', marginBottom: '1px' }}>
             {partners.map((member, i) => (
               <AnimatedSection key={member.id} delay={i * 100}>
@@ -101,10 +101,10 @@ export default function Team() {
                   <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.25rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.375rem', letterSpacing: '0.02em' }}>
                     {member.name}
                   </h3>
-                  <span style={{ display: 'inline-block', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1.25rem', borderBottom: '1px solid #f97316', paddingBottom: '1px' }}>
+                  <span style={{ display: 'inline-block', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1.25rem', borderBottom: '1px solid #f97316', paddingBottom: '1px' }}>
                     {member.role}
                   </span>
-                  <p style={{ fontSize: '0.875rem', color: '#737373', lineHeight: 1.75, margin: 0 }}>{member.bio}</p>
+                  <p style={{ fontSize: '0.875rem', color: '#525252', lineHeight: 1.75, margin: 0 }}>{member.bio}</p>
                 </article>
               </AnimatedSection>
             ))}
@@ -115,7 +115,7 @@ export default function Team() {
       {/* Investment Team */}
       <section aria-labelledby="investment-team-heading" style={{ backgroundColor: '#ffffff', padding: '2rem 0 6rem' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <h2 id="investment-team-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '2rem' }}>Investment Team</h2>
+          <h2 id="investment-team-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#525252', marginBottom: '2rem' }}>Investment Team</h2>
           <div style={{ border: '1px solid #e5e5e5' }}>
             {analysts.map((member, i) => (
               <AnimatedSection key={member.id} delay={i * 80}>
@@ -144,10 +144,10 @@ export default function Team() {
                     <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.25rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.25rem', letterSpacing: '0.02em' }}>
                       {member.name}
                     </h3>
-                    <span style={{ display: 'inline-block', fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>
+                    <span style={{ display: 'inline-block', fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>
                       {member.role}
                     </span>
-                    <p style={{ fontSize: '0.9rem', color: '#737373', lineHeight: 1.75, margin: 0, maxWidth: '36rem' }}>{member.bio}</p>
+                    <p style={{ fontSize: '0.9rem', color: '#525252', lineHeight: 1.75, margin: 0, maxWidth: '36rem' }}>{member.bio}</p>
                   </div>
                 </article>
               </AnimatedSection>

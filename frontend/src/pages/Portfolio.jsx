@@ -68,17 +68,17 @@ export default function Portfolio() {
       <section aria-label="Page hero" style={{ backgroundColor: '#ffffff', paddingTop: '64px' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
           <div className="animate-fade-in-up">
-            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '0.75rem' }}>Our Portfolio</p>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '0.75rem' }}>Our Portfolio</p>
             <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: '0 0 1.25rem', letterSpacing: '-0.02em' }}>
               Our Portfolio.
             </h1>
-            <p style={{ fontSize: '1rem', color: '#737373', maxWidth: '40rem', lineHeight: 1.7, margin: 0 }}>
+            <p style={{ fontSize: '1rem', color: '#525252', maxWidth: '40rem', lineHeight: 1.7, margin: 0 }}>
               From fintech architects building new rails, to agri-tech innovators transforming rural markets, to consumer-brand pioneers turning local culture into global phenomena.
             </p>
           </div>
         </div>
         <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <div style={{ height: '4px', width: '120px', backgroundColor: '#f97316' }} />
+          <div style={{ height: '4px', width: '120px', backgroundColor: '#c2410c' }} />
         </div>
       </section>
 
@@ -129,7 +129,7 @@ export default function Portfolio() {
         style={{ backgroundColor: '#ffffff', padding: '3rem 0 6rem' }}
       >
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
-          <p style={{ fontSize: '0.75rem', color: '#a3a3a3', marginBottom: '2rem', fontFamily: "'Inter', sans-serif" }}>
+          <p style={{ fontSize: '0.75rem', color: '#525252', marginBottom: '2rem', fontFamily: "'Inter', sans-serif" }}>
             {filtered.length} {filtered.length === 1 ? 'company' : 'companies'}
             {activeFilter !== 'All' ? ` in ${activeFilter}` : ' across all sectors'}
           </p>
@@ -155,12 +155,12 @@ export default function Portfolio() {
                         />
                       ) : (
                         <div style={{ width: '100%', height: '100%', backgroundColor: '#0a0a0a', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '4px' }} aria-hidden="true">
-                          <span style={{ color: '#f97316', fontWeight: 900, fontSize: '0.875rem', fontFamily: "'Syne', sans-serif" }}>{company.name[0]}</span>
+                          <span style={{ color: '#c2410c', fontWeight: 900, fontSize: '0.875rem', fontFamily: "'Syne', sans-serif" }}>{company.name[0]}</span>
                         </div>
                       )}
                     </div>
                     {company.status && (
-                      <span style={{ fontSize: '0.6rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#f97316', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase', flexShrink: 0 }} aria-label={`Status: ${company.status}`}>
+                      <span style={{ fontSize: '0.6rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#c2410c', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase', flexShrink: 0 }} aria-label={`Status: ${company.status}`}>
                         {company.status}
                       </span>
                     )}
@@ -169,7 +169,7 @@ export default function Portfolio() {
                   <h3 style={{ fontFamily: "'Syne', sans-serif", fontSize: '0.9375rem', fontWeight: 800, color: '#0a0a0a', marginBottom: '0.375rem', textTransform: 'uppercase', letterSpacing: '0.02em' }}>
                     {company.name}
                   </h3>
-                  <p style={{ fontSize: '0.78rem', color: '#737373', lineHeight: 1.5, margin: '0 0 1rem', flex: 1 }}>
+                  <p style={{ fontSize: '0.78rem', color: '#525252', lineHeight: 1.5, margin: '0 0 1rem', flex: 1 }}>
                     {company.tagline}
                   </p>
                   <SectorTag sector={company.sector} />

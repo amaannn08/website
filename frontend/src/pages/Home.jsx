@@ -44,12 +44,12 @@ function TestimonialCarousel() {
             "{t.quote}"
           </p>
           <footer style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: '#f97316', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', flexShrink: 0 }} aria-hidden="true">
+            <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: '#c2410c', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', flexShrink: 0 }} aria-hidden="true">
               {t.name[0]}
             </div>
             <div>
               <p style={{ color: '#0a0a0a', fontWeight: 600, fontSize: '0.875rem', margin: 0 }}>{t.name}</p>
-              <p style={{ color: '#737373', fontSize: '0.75rem', margin: 0 }}>{t.title}</p>
+              <p style={{ color: '#525252', fontSize: '0.75rem', margin: 0 }}>{t.title}</p>
             </div>
           </footer>
         </blockquote>
@@ -103,13 +103,13 @@ export default function Home() {
         <div style={{ position: 'relative', maxWidth: '88rem', margin: '0 auto', padding: '8rem 2rem 6rem', textAlign: 'center' }}>
           {/* Eyebrow */}
           <div className="animate-fade-in-up" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', marginBottom: '2rem', padding: '0.5rem 1rem', border: '1px solid rgba(249,115,22,0.3)', borderRadius: '999px', backgroundColor: 'rgba(249,115,22,0.06)' }}>
-            <span style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#f97316' }} aria-hidden="true" />
-            <span style={{ color: '#f97316', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase' }}>Early-Stage VC · India</span>
+            <span style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#c2410c' }} aria-hidden="true" />
+            <span style={{ color: '#c2410c', fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase' }}>Early-Stage VC · India</span>
           </div>
 
           <h1 className="animate-fade-in-up delay-100" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(3rem, 8vw, 6rem)', fontWeight: 900, color: '#ffffff', lineHeight: 1.05, marginBottom: '1.5rem', letterSpacing: '-0.02em' }}>
             What if the market<br />
-            <span style={{ color: '#f97316' }}>doesn't</span> exist yet?
+            <span style={{ color: '#c2410c' }}>doesn't</span> exist yet?
           </h1>
 
           <p className="animate-fade-in-up delay-200" style={{ fontSize: '1.125rem', color: 'rgba(255,255,255,0.6)', maxWidth: '36rem', margin: '0 auto 3rem', lineHeight: 1.7 }}>
@@ -122,18 +122,18 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Submit your pitch to WEH Ventures (opens external form)"
-              style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#f97316', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', letterSpacing: '0.05em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.2s' }}
-              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#ea580c'}
-              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#f97316'}
+              style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#c2410c', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', letterSpacing: '0.05em', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.2s' }}
+              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
+              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}
             >
               Pitch to Us <ArrowUpRight size={16} aria-hidden="true" />
             </a>
             <a
               href="/portfolio"
-              style={{ display: 'inline-flex', alignItems: 'center', minHeight: '52px', padding: '0 2rem', border: '1px solid rgba(255,255,255,0.2)', color: 'rgba(255,255,255,0.8)', fontWeight: 500, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'border-color 0.2s, color 0.2s' }}
+              style={{ display: 'inline-flex', alignItems: 'center', minHeight: '52px', padding: '0 2rem', border: '1px solid rgba(255,255,255,0.6)', color: 'rgba(255,255,255,0.8)', fontWeight: 500, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'border-color 0.2s, color 0.2s' }}
               aria-label="View our portfolio companies"
               onMouseEnter={e => { e.currentTarget.style.borderColor = '#f97316'; e.currentTarget.style.color = '#f97316'; }}
-              onMouseLeave={e => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.2)'; e.currentTarget.style.color = 'rgba(255,255,255,0.8)'; }}
+              onMouseLeave={e => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.6)'; e.currentTarget.style.color = 'rgba(255,255,255,0.8)'; }}
             >
               View Portfolio
             </a>
@@ -153,10 +153,10 @@ export default function Home() {
       <section aria-labelledby="invest-heading" style={{ padding: '6rem 0', backgroundColor: '#ffffff' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem', display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '4rem', alignItems: 'center' }}>
           <AnimatedSection>
-            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>Investment Thesis</p>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>Investment Thesis</p>
             <h2 id="invest-heading" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 900, color: '#0a0a0a', lineHeight: 1.1, margin: 0 }}>
               Pre-seed &amp; Seed.<br />
-              <span style={{ color: '#737373' }}>$150K – $500K.</span>
+              <span style={{ color: '#525252' }}>$150K – $500K.</span>
             </h2>
           </AnimatedSection>
           <AnimatedSection delay={150}>
@@ -171,7 +171,7 @@ export default function Home() {
       <section aria-labelledby="portfolio-heading" style={{ padding: '6rem 0', backgroundColor: '#fafafa', borderTop: '1px solid #e5e5e5' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
           <AnimatedSection style={{ marginBottom: '3.5rem' }}>
-            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>Portfolio Highlights</p>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>Portfolio Highlights</p>
             <h2 id="portfolio-heading" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 900, color: '#0a0a0a', lineHeight: 1.1, margin: 0 }}>
               Companies that went on<br /> to raise from the best.
             </h2>
@@ -186,13 +186,13 @@ export default function Home() {
                 onMouseEnter={e => { e.currentTarget.style.borderColor = '#f97316'; e.currentTarget.style.boxShadow = '0 4px 16px rgba(249,115,22,0.1)'; }}
                 onMouseLeave={e => { e.currentTarget.style.borderColor = '#e5e5e5'; e.currentTarget.style.boxShadow = 'none'; }}
               >
-                <div style={{ width: '40px', height: '40px', borderRadius: '2px', backgroundColor: '#f97316', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontWeight: 900, fontSize: '0.875rem', marginBottom: '1.5rem' }} aria-hidden="true">
+                <div style={{ width: '40px', height: '40px', borderRadius: '2px', backgroundColor: '#c2410c', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontWeight: 900, fontSize: '0.875rem', marginBottom: '1.5rem' }} aria-hidden="true">
                   {name[0]}
                 </div>
                 <h3 style={{ fontFamily: "'Syne', sans-serif", fontSize: '1rem', fontWeight: 700, color: '#0a0a0a', marginBottom: '0.5rem' }}>{name}</h3>
-                <p style={{ fontSize: '0.8rem', color: '#737373', marginBottom: '1rem', lineHeight: 1.5 }}>{tagline}</p>
-                <p style={{ fontSize: '0.7rem', color: '#a3a3a3', borderTop: '1px solid #f5f5f5', paddingTop: '1rem', margin: 0 }}>
-                  Later backed by <span style={{ color: '#f97316' }}>{backed}</span>
+                <p style={{ fontSize: '0.8rem', color: '#525252', marginBottom: '1rem', lineHeight: 1.5 }}>{tagline}</p>
+                <p style={{ fontSize: '0.7rem', color: '#525252', borderTop: '1px solid #f5f5f5', paddingTop: '1rem', margin: 0 }}>
+                  Later backed by <span style={{ color: '#c2410c' }}>{backed}</span>
                 </p>
               </AnimatedSection>
             ))}
@@ -204,7 +204,7 @@ export default function Home() {
       <section aria-labelledby="testimonials-heading" style={{ padding: '6rem 0', backgroundColor: '#ffffff' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
           <AnimatedSection style={{ textAlign: 'center', marginBottom: '3.5rem' }}>
-            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>Founder Voices</p>
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>Founder Voices</p>
             <h2 id="testimonials-heading" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 900, color: '#0a0a0a', margin: 0 }}>
               What founders say.
             </h2>
@@ -220,7 +220,7 @@ export default function Home() {
             <h2 id="cta-heading" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2rem, 5vw, 4rem)', fontWeight: 900, color: '#ffffff', marginBottom: '1rem', lineHeight: 1.1 }}>
               Got an untitled idea<br /> or an early prototype?
             </h2>
-            <p style={{ color: 'rgba(255,255,255,0.5)', fontSize: '1.125rem', marginBottom: '2.5rem', maxWidth: '28rem', margin: '0 auto 2.5rem' }}>
+            <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.125rem', marginBottom: '2.5rem', maxWidth: '28rem', margin: '0 auto 2.5rem' }}>
               Let's build the next category together.
             </p>
             <a
@@ -228,9 +228,9 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Submit your pitch to WEH Ventures (opens external form)"
-              style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2.5rem', backgroundColor: '#f97316', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.2s' }}
-              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#ea580c'}
-              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#f97316'}
+              style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2.5rem', backgroundColor: '#c2410c', color: '#ffffff', fontWeight: 700, fontSize: '0.875rem', textDecoration: 'none', borderRadius: '2px', transition: 'background-color 0.2s' }}
+              onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
+              onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}
             >
               Pitch to Us <ArrowUpRight size={16} aria-hidden="true" />
             </a>

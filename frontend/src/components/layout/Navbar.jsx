@@ -66,14 +66,14 @@ export default function Navbar() {
             style={{
               display: 'inline-flex', alignItems: 'center',
               minHeight: '40px', padding: '0 1.25rem',
-              backgroundColor: '#f97316', color: '#ffffff',
+              backgroundColor: '#c2410c', color: '#ffffff',
               fontSize: '0.75rem', fontWeight: 700,
               letterSpacing: '0.06em', textTransform: 'uppercase',
               textDecoration: 'none', borderRadius: '2px',
               transition: 'background-color 0.15s',
             }}
-            onMouseEnter={e => e.currentTarget.style.backgroundColor = '#ea580c'}
-            onMouseLeave={e => e.currentTarget.style.backgroundColor = '#f97316'}
+            onMouseEnter={e => e.currentTarget.style.backgroundColor = '#9a3412'}
+            onMouseLeave={e => e.currentTarget.style.backgroundColor = '#c2410c'}
           >
             Pitch to Us
           </a>
@@ -125,7 +125,7 @@ export default function Navbar() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Submit your pitch to WEH Ventures (opens external form)"
-            style={{ display: 'flex', justifyContent: 'center', minHeight: '44px', padding: '0.75rem 1.5rem', backgroundColor: '#f97316', color: '#ffffff', fontSize: '0.8rem', fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', marginTop: '0.5rem' }}
+            style={{ display: 'flex', justifyContent: 'center', minHeight: '44px', padding: '0.75rem 1.5rem', backgroundColor: '#c2410c', color: '#ffffff', fontSize: '0.8rem', fontWeight: 700, letterSpacing: '0.06em', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', marginTop: '0.5rem' }}
           >
             Pitch to Us
           </a>

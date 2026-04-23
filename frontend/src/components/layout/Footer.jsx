@@ -28,14 +28,14 @@ export default function Footer() {
                 style={{ height: '36px', width: 'auto' }}
               />
             </div>
-            <p style={{ color: 'rgba(255,255,255,0.45)', fontSize: '0.875rem', lineHeight: 1.7, maxWidth: '360px' }}>
+            <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '0.875rem', lineHeight: 1.7, maxWidth: '360px' }}>
               WEH is a high-conviction, early-stage venture fund. We invest in high-potential founders building what the market doesn't yet have.
             </p>
           </div>
 
           {/* Nav */}
           <div>
-            <p style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>
+            <p style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>
               Pages
             </p>
             <nav aria-label="Footer navigation" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
@@ -44,9 +44,9 @@ export default function Footer() {
                   key={to}
                   to={to}
                   aria-label={`Navigate to ${label} page`}
-                  style={{ fontSize: '0.875rem', color: 'rgba(255,255,255,0.5)', textDecoration: 'none', transition: 'color 0.2s', width: 'fit-content' }}
+                  style={{ fontSize: '0.875rem', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', transition: 'color 0.2s', width: 'fit-content' }}
                   onMouseEnter={e => e.currentTarget.style.color = '#f97316'}
-                  onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.5)'}
+                  onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.7)'}
                 >
                   {label}
                 </Link>
@@ -57,16 +57,16 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.07)', paddingTop: '1.5rem', display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '1rem' }}>
-          <p style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.25)' }}>© 2025 WEH Ventures</p>
+          <p style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.6)' }}>© 2025 WEH Ventures</p>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1.5rem' }}>
             {legalLinks.map(({ label, href }) => (
               <a
                 key={label}
                 href={href}
                 aria-label={`Read our ${label}`}
-                style={{ fontSize: '0.7rem', color: 'rgba(255,255,255,0.25)', textDecoration: 'none', transition: 'color 0.2s' }}
-                onMouseEnter={e => e.currentTarget.style.color = 'rgba(255,255,255,0.5)'}
-                onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.25)'}
+                style={{ fontSize: '0.7rem', color: 'rgba(255,255,255,0.6)', textDecoration: 'none', transition: 'color 0.2s' }}
+                onMouseEnter={e => e.currentTarget.style.color = 'rgba(255,255,255,0.7)'}
+                onMouseLeave={e => e.currentTarget.style.color = 'rgba(255,255,255,0.6)'}
               >
                 {label}
               </a>

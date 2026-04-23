@@ -61,19 +61,15 @@ export default function Team() {
       {/* Hero */}
       <section aria-label="Page hero" style={{ backgroundColor: '#ffffff', paddingTop: '64px' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '4rem 2rem 3rem' }}>
-          <div className="animate-fade-in-up" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '3rem', alignItems: 'end' }}>
-            <div>
-              <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '0.75rem' }}>The Team</p>
-              <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: 0, letterSpacing: '-0.02em' }}>
-                Small army.<br />
-                <span style={{ color: '#f97316' }}>Huge conviction.</span>
-              </h1>
-            </div>
-            <div>
-              <p style={{ fontSize: '1rem', color: '#737373', lineHeight: 1.7, maxWidth: '30rem', margin: 0 }}>
-                Over 8,000 conversations, countless coffee meetings, and hundreds of late-night debates about whether an idea has legs.
-              </p>
-            </div>
+          <div className="animate-fade-in-up">
+            <p style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#f97316', marginBottom: '0.75rem' }}>The Team</p>
+            <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', lineHeight: 1.0, margin: '0 0 1.5rem', letterSpacing: '-0.02em' }}>
+              Small army.<br />
+              <span style={{ color: '#f97316' }}>Huge conviction.</span>
+            </h1>
+            <p style={{ fontSize: '1rem', color: '#737373', lineHeight: 1.7, maxWidth: '36rem', margin: 0 }}>
+              Over 8,000 conversations, countless coffee meetings, and hundreds of late-night debates about whether an idea has legs.
+            </p>
           </div>
         </div>
         <div style={{ borderTop: '2px solid #0a0a0a', maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
@@ -120,7 +116,7 @@ export default function Team() {
       <section aria-labelledby="investment-team-heading" style={{ backgroundColor: '#ffffff', padding: '2rem 0 6rem' }}>
         <div style={{ maxWidth: '88rem', margin: '0 auto', padding: '0 2rem' }}>
           <h2 id="investment-team-heading" style={{ fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#a3a3a3', marginBottom: '2rem' }}>Investment Team</h2>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '1px', backgroundColor: '#e5e5e5', border: '1px solid #e5e5e5' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, 300px)', justifyContent: 'center', gap: '1px', backgroundColor: '#e5e5e5', border: '1px solid #e5e5e5' }}>
             {analysts.map((member, i) => (
               <AnimatedSection key={member.id} delay={i * 80}>
                 <article

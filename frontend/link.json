@@ -1,0 +1,2486 @@
+{
+  "target": "https://www.wehventures.com",
+  "pages_scraped": [
+    "/",
+    "/team",
+    "/portfolio"
+  ],
+  "summary": {
+    "total_unique": 125,
+    "labeled": 91,
+    "unlabeled": 34,
+    "companies": 52
+  },
+  "by_company": {
+    "Create It": [
+      "https://framerusercontent.com/images/tatPtxZEcZ8is91aUZ4x2Dfgp8.png?width=773&height=332"
+    ],
+    "Texture Vector": [
+      "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg?width=2226&height=14"
+    ],
+    "335-3350286_ripped-notebook-paper-png-transparent-png 1": [
+      "https://framerusercontent.com/images/CJkXvb79dcQIiiATbugzmwMxs.png?width=3248&height=2168"
+    ],
+    "Untitled_Artwork 9 1": [
+      "https://framerusercontent.com/images/jqoWB2xLKzLtxB6HnOXNfDo2p4.png?width=2204&height=1100"
+    ],
+    "Smallcase Logo": [
+      "https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png?width=226&height=225"
+    ],
+    "Apps For Bharat Logo": [
+      "https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png?width=226&height=225"
+    ],
+    "Animall Logo": [
+      "https://framerusercontent.com/images/xuILP4QkYugsiU1crLZKeKRT7Gc.png?width=225&height=225"
+    ],
+    "Jar Logo": [
+      "https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png?width=225&height=225"
+    ],
+    "Master Chow Logo": [
+      "https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png?width=225&height=225"
+    ],
+    "Game Theory Logo": [
+      "https://framerusercontent.com/images/ZboBE713hIAvP9HXdmROGzb32Tw.png?width=225&height=225"
+    ],
+    "Pratilipi Logo": [
+      "https://framerusercontent.com/images/nZ88y5IABJO6R98Y362XRXTYmw.png?width=225&height=225"
+    ],
+    "Fragaria Logo": [
+      "https://framerusercontent.com/images/qwRGu3joNJozbQ7MDK9smKioMVk.png?width=226&height=225"
+    ],
+    "Flent Logo": [
+      "https://framerusercontent.com/images/4VVrLfmPx7qxv3ivK3363owGGg.png?width=226&height=225",
+      "https://framerusercontent.com/images/imXwbxPrBvt6zaSrOby77uARKI.png?width=152&height=64"
+    ],
+    "Segmind Logo": [
+      "https://framerusercontent.com/images/HyjtVdEBvGMlsCk3HGQOQnOOo4U.png?width=225&height=225"
+    ],
+    "Clinikk Logo": [
+      "https://framerusercontent.com/images/kjAHxQSKCEG8GSjCFrgR0FENEbM.png?width=226&height=225"
+    ],
+    "Time Pass Logo": [
+      "https://framerusercontent.com/images/weAglkgTrgoNbEFRWYpdI5mn8.png?width=225&height=225"
+    ],
+    "Noto Logo": [
+      "https://framerusercontent.com/images/F3kIcDAf2MreimMjhMN3dUXl8Y.png?width=226&height=225"
+    ],
+    "Hectar Logo": [
+      "https://framerusercontent.com/images/1rqsOrcS3oQDfsdJtNbkBWqXUAw.png?width=226&height=225"
+    ],
+    "Charcoal Logo": [
+      "https://framerusercontent.com/images/hLJuMS8t4l12Ugn3yLhdXr9GCiU.png?width=226&height=225"
+    ],
+    "Sustvest Logo": [
+      "https://framerusercontent.com/images/KhiuqXhNbJWNdW5Ci4BdVwTVZc.png?width=226&height=225"
+    ],
+    "Knot Logo": [
+      "https://framerusercontent.com/images/PFTcqnaalNaLSIlO8JperT0t3KI.png?width=225&height=225"
+    ],
+    "Infinity Box Logo": [
+      "https://framerusercontent.com/images/uvQk66uccc53vFkk1q0HJX0IOpw.png?width=226&height=225"
+    ],
+    "Magma Logo": [
+      "https://framerusercontent.com/images/BM4owf8oyvK5opYUISrNS5RAV8.png?width=225&height=225"
+    ],
+    "Draconic Logo": [
+      "https://framerusercontent.com/images/Ru94fMZuvwaMUNoFOUutVtK0Mv0.png?width=225&height=225"
+    ],
+    "Mitigata Logo": [
+      "https://framerusercontent.com/images/XlXqsjjmOKOEiTnUsMg6vZsbc90.png?width=226&height=225"
+    ],
+    "Stellar Play": [
+      "https://framerusercontent.com/images/2PncJHUvkFt6wuU6Qs7b6Wiuw.png?width=225&height=225"
+    ],
+    "01-MC": [
+      "https://framerusercontent.com/images/DxBTJSCLseEJgvKNUdS6Ohucbs.png?width=1001&height=500",
+      "https://framerusercontent.com/images/4VIyF0ubnjL6dRIpwGBMhAF0f4.png?width=1000&height=500",
+      "https://framerusercontent.com/images/ChIxJ7AH4fgxtjHATwrOZrypVI.png?width=1000&height=500",
+      "https://framerusercontent.com/images/OcEFVkOQ48HHug5OFGkmXcjiPig.png?width=1000&height=500"
+    ],
+    "Rectangle 26752": [
+      "https://framerusercontent.com/images/R10GWGhu5Kr1PAeLFidhyCxPQ7k.png?width=731&height=490",
+      "https://framerusercontent.com/images/5UO3w5avb0mauGvH9WTvyAWCXMU.png?width=730&height=490"
+    ],
+    "Percentage": [
+      "https://framerusercontent.com/images/KlBjTE6JaELs0o2dcusvg5uToXE.png?width=137&height=148"
+    ],
+    "Million Dollar": [
+      "https://framerusercontent.com/images/HttiDTy5vRBIer3BYGIOmg9RC0.png?width=216&height=156"
+    ],
+    "Untitled_Artwork copy 3 2": [
+      "https://framerusercontent.com/images/4Md3lfN5OHtsjfHCCUJXRGTV2XQ.png?width=236&height=308",
+      "https://framerusercontent.com/images/j8kC0OAQnBkYCJDqhZyFdpnGbP8.png?width=232&height=304"
+    ],
+    "Shail": [
+      "https://framerusercontent.com/images/Cu9EVXx4ch4zXfUAmgRdqBvTw.png?width=849&height=664"
+    ],
+    "Srinath": [
+      "https://framerusercontent.com/images/iipfakKxNtMOLiFtdGrSoOsGHCk.png?width=4161&height=3928"
+    ],
+    "Knot Logo 2": [
+      "https://framerusercontent.com/images/WjMOJEVNgnhtAg57xGWaWxjZk.png?width=192&height=60"
+    ],
+    "Archit": [
+      "https://framerusercontent.com/images/L8dKpRygdPPzu6c3KCrpGvXGQNE.png?width=5565&height=4672"
+    ],
+    "Back Arrow": [
+      "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg"
+    ],
+    "Next Arrow": [
+      "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg"
+    ],
+    "WEH Ventures Logo": [
+      "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png?width=1360&height=664"
+    ],
+    "Scribble Circle": [
+      "https://framerusercontent.com/images/tjUcIP7VwwYLI7LQmVfDcK2zuM.png?width=253&height=124"
+    ],
+    "1725001676934 1": [
+      "https://framerusercontent.com/images/0e2gqLxKeu1I5jGotcZlnAcCEgk.png?width=1395&height=660"
+    ],
+    "HD3sl88jURQ8O3RJNaYQmh1RG8I": [
+      "https://framerusercontent.com/images/ZomduXZ7Kk8ZYMLjFv0nxjTrAk.png?width=806&height=1000",
+      "https://framerusercontent.com/images/OBTteXCywCBauoLnTtY6Xzbmo.png?width=664&height=1000",
+      "https://framerusercontent.com/images/qzHVon8HK5Y9lF7PmUP9m5kXS5w.png?width=674&height=904",
+      "https://framerusercontent.com/images/cgCRRoIIYvsymskVfpke54GUDU.jpg?width=812&height=822",
+      "https://framerusercontent.com/images/AKL9sfIDep3bEHWZHCtrucR4jm0.png?width=1824&height=2352"
+    ],
+    "Group 134594": [
+      "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg?width=1768&height=22"
+    ],
+    "istockphoto-185214254-612x612 1": [
+      "https://framerusercontent.com/images/4D2dnk0aDntDAIxZenehYBf46E.png?width=2984&height=1372"
+    ],
+    "Untitled_Artwork 10 1": [
+      "https://framerusercontent.com/images/Balag6t8nC8a9yPIsFIedOQR8.png?width=2100&height=924"
+    ],
+    "Scribble Line": [
+      "https://framerusercontent.com/images/gcq1NCD1ntfv5pto13mhvxnW7s.svg?width=94&height=21"
+    ],
+    "Robots": [
+      "https://framerusercontent.com/images/gutW5aECOPw2Tb4vQEczWCUL24.png"
+    ],
+    "Gaming": [
+      "https://framerusercontent.com/images/fJGMVAHxl3FSvnWrfPeClyYOtUk.png"
+    ],
+    "Fintech": [
+      "https://framerusercontent.com/images/KTOfFWewpYdCj3LceQLkq9XhUKs.png"
+    ],
+    "Recipes": [
+      "https://framerusercontent.com/images/RjtOXvnN2Vq5bQAsG4KPzAeQPE.png"
+    ],
+    "Gold": [
+      "https://framerusercontent.com/images/vXnvGFp59eniYOHVehdwUksU.png"
+    ],
+    "Faith": [
+      "https://framerusercontent.com/images/cUSt7dWqIOxP9If701NZAblpx40.png"
+    ],
+    "Portfolio MC Logo": [
+      "https://framerusercontent.com/images/7GiSbdqpbsEzLG2OL5xevt9s.png?width=225&height=225",
+      "https://framerusercontent.com/images/Ue7TlS4JaBrXwiFJbXtqYudveE0.png?width=226&height=225",
+      "https://framerusercontent.com/images/Qbx0aDLUoIAMmA4UCgmnxilw.png?width=226&height=225",
+      "https://framerusercontent.com/images/17qSGrDXpPHf7GeUWbtDrjH1bTw.png?width=225&height=225",
+      "https://framerusercontent.com/images/eE83FcnOThCD1CAkcGV3Px0v8CY.png?width=225&height=225",
+      "https://framerusercontent.com/images/gjuhZJSpPy1yPscyyaUoX14sVAo.png?width=226&height=225",
+      "https://framerusercontent.com/images/BV94OpihVPloqNcxZUVoV1LuRA.png?width=225&height=225",
+      "https://framerusercontent.com/images/psHhEoxNBdqIDoIQ51ePWEEfyF4.png?width=226&height=225",
+      "https://framerusercontent.com/images/SiIFMLeZmPTN4xHsYLBxXhjRBE.png?width=225&height=225",
+      "https://framerusercontent.com/images/wo3Tsee6IY6luqocF8BNyq8M0.png?width=226&height=225",
+      "https://framerusercontent.com/images/gqJNUQhaiQyHVmQazOZriT7Ek.png?width=226&height=225",
+      "https://framerusercontent.com/images/Vfm6XTwAW4hWftlm7V12u2tp90.png?width=225&height=225",
+      "https://framerusercontent.com/images/OK2nQ9N5dNYtPPYagPVwvRRkBg.png?width=226&height=225",
+      "https://framerusercontent.com/images/O6tZp10SYcqYQOnkHTs7sL81ROg.png?width=226&height=225",
+      "https://framerusercontent.com/images/zUUrCKog7IiKHWm9Azx4LAG1xM.png?width=225&height=225",
+      "https://framerusercontent.com/images/iW5YGz7OdqNFdEcJNjY8TIuYQH0.png?width=226&height=225",
+      "https://framerusercontent.com/images/PmKKxG03TsnDOtGYE8kr2ePCo.png?width=225&height=225",
+      "https://framerusercontent.com/images/mD3glqTvS8h9ueO5axIYHTwT1w.png?width=226&height=225",
+      "https://framerusercontent.com/images/aEFlwtvUOtSvBAn2AfOuTfP7VmE.png?width=226&height=225",
+      "https://framerusercontent.com/images/BWQUto4fPYfewo7hMjtL900md44.png?width=226&height=225",
+      "https://framerusercontent.com/images/uQ1Tsp4OYTlykeCG3K50qHhcKY.png?width=225&height=225",
+      "https://framerusercontent.com/images/Uwk6vIuLuP9GKc7tXBpiD72CN9c.png?width=226&height=225",
+      "https://framerusercontent.com/images/2u2Oeg0eWq3mn2Puxmp11q3D0I.png?width=225&height=225",
+      "https://framerusercontent.com/images/pTST77VhnO8FMZeN5tX8GBD842c.png?width=225&height=225",
+      "https://framerusercontent.com/images/BA7aNM43aPzfbrJMJ0JHLSZpNs.png?width=226&height=225",
+      "https://framerusercontent.com/images/BdbRJDMrukJUi4nr4g9xjZRv90A.png?width=225&height=225",
+      "https://framerusercontent.com/images/qCILzaQBtau8hvzUswQW5HvoHmc.png?width=225&height=225",
+      "https://framerusercontent.com/images/VKwVTIL1ApLcRykCBqNCLRaAefQ.png?width=225&height=225",
+      "https://framerusercontent.com/images/lF5ljqbcXmPkim35nOccy16ekWs.png?width=225&height=225",
+      "https://framerusercontent.com/images/VDyaocSCXXNm26l5kObtwglw81s.png?width=225&height=225"
+    ]
+  },
+  "labeled_entries": [
+    {
+      "url": "https://framerusercontent.com/images/tatPtxZEcZ8is91aUZ4x2Dfgp8.png?width=773&height=332",
+      "canonical_url": "https://framerusercontent.com/images/tatPtxZEcZ8is91aUZ4x2Dfgp8.png",
+      "label": "Create It",
+      "width": 273,
+      "height": 64,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg?width=2226&height=14",
+      "canonical_url": "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg",
+      "label": "Texture Vector",
+      "width": 1469,
+      "height": 14,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/CJkXvb79dcQIiiATbugzmwMxs.png?width=3248&height=2168",
+      "canonical_url": "https://framerusercontent.com/images/CJkXvb79dcQIiiATbugzmwMxs.png",
+      "label": "335-3350286_ripped-notebook-paper-png-transparent-png 1",
+      "width": 754,
+      "height": 503,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/jqoWB2xLKzLtxB6HnOXNfDo2p4.png?width=2204&height=1100",
+      "canonical_url": "https://framerusercontent.com/images/jqoWB2xLKzLtxB6HnOXNfDo2p4.png",
+      "label": "Untitled_Artwork 9 1",
+      "width": 511,
+      "height": 255,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png",
+      "label": "Smallcase Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png",
+      "label": "Apps For Bharat Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/xuILP4QkYugsiU1crLZKeKRT7Gc.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/xuILP4QkYugsiU1crLZKeKRT7Gc.png",
+      "label": "Animall Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png",
+      "label": "Jar Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png",
+      "label": "Master Chow Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/ZboBE713hIAvP9HXdmROGzb32Tw.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/ZboBE713hIAvP9HXdmROGzb32Tw.png",
+      "label": "Game Theory Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/nZ88y5IABJO6R98Y362XRXTYmw.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/nZ88y5IABJO6R98Y362XRXTYmw.png",
+      "label": "Pratilipi Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/qwRGu3joNJozbQ7MDK9smKioMVk.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/qwRGu3joNJozbQ7MDK9smKioMVk.png",
+      "label": "Fragaria Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/4VVrLfmPx7qxv3ivK3363owGGg.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/4VVrLfmPx7qxv3ivK3363owGGg.png",
+      "label": "Flent Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/HyjtVdEBvGMlsCk3HGQOQnOOo4U.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/HyjtVdEBvGMlsCk3HGQOQnOOo4U.png",
+      "label": "Segmind Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/kjAHxQSKCEG8GSjCFrgR0FENEbM.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/kjAHxQSKCEG8GSjCFrgR0FENEbM.png",
+      "label": "Clinikk Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/weAglkgTrgoNbEFRWYpdI5mn8.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/weAglkgTrgoNbEFRWYpdI5mn8.png",
+      "label": "Time Pass Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/F3kIcDAf2MreimMjhMN3dUXl8Y.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/F3kIcDAf2MreimMjhMN3dUXl8Y.png",
+      "label": "Noto Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/1rqsOrcS3oQDfsdJtNbkBWqXUAw.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/1rqsOrcS3oQDfsdJtNbkBWqXUAw.png",
+      "label": "Hectar Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/hLJuMS8t4l12Ugn3yLhdXr9GCiU.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/hLJuMS8t4l12Ugn3yLhdXr9GCiU.png",
+      "label": "Charcoal Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/KhiuqXhNbJWNdW5Ci4BdVwTVZc.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/KhiuqXhNbJWNdW5Ci4BdVwTVZc.png",
+      "label": "Sustvest Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/PFTcqnaalNaLSIlO8JperT0t3KI.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/PFTcqnaalNaLSIlO8JperT0t3KI.png",
+      "label": "Knot Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/uvQk66uccc53vFkk1q0HJX0IOpw.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/uvQk66uccc53vFkk1q0HJX0IOpw.png",
+      "label": "Infinity Box Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/BM4owf8oyvK5opYUISrNS5RAV8.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/BM4owf8oyvK5opYUISrNS5RAV8.png",
+      "label": "Magma Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Ru94fMZuvwaMUNoFOUutVtK0Mv0.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/Ru94fMZuvwaMUNoFOUutVtK0Mv0.png",
+      "label": "Draconic Logo",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/XlXqsjjmOKOEiTnUsMg6vZsbc90.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/XlXqsjjmOKOEiTnUsMg6vZsbc90.png",
+      "label": "Mitigata Logo",
+      "width": 180,
+      "height": 179,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/2PncJHUvkFt6wuU6Qs7b6Wiuw.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/2PncJHUvkFt6wuU6Qs7b6Wiuw.png",
+      "label": "Stellar Play",
+      "width": 180,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/DxBTJSCLseEJgvKNUdS6Ohucbs.png?width=1001&height=500",
+      "canonical_url": "https://framerusercontent.com/images/DxBTJSCLseEJgvKNUdS6Ohucbs.png",
+      "label": "01-MC",
+      "width": 501,
+      "height": 250,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/4VIyF0ubnjL6dRIpwGBMhAF0f4.png?width=1000&height=500",
+      "canonical_url": "https://framerusercontent.com/images/4VIyF0ubnjL6dRIpwGBMhAF0f4.png",
+      "label": "01-MC",
+      "width": 501,
+      "height": 250,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/ChIxJ7AH4fgxtjHATwrOZrypVI.png?width=1000&height=500",
+      "canonical_url": "https://framerusercontent.com/images/ChIxJ7AH4fgxtjHATwrOZrypVI.png",
+      "label": "01-MC",
+      "width": 501,
+      "height": 250,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/OcEFVkOQ48HHug5OFGkmXcjiPig.png?width=1000&height=500",
+      "canonical_url": "https://framerusercontent.com/images/OcEFVkOQ48HHug5OFGkmXcjiPig.png",
+      "label": "01-MC",
+      "width": 501,
+      "height": 250,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/R10GWGhu5Kr1PAeLFidhyCxPQ7k.png?width=731&height=490",
+      "canonical_url": "https://framerusercontent.com/images/R10GWGhu5Kr1PAeLFidhyCxPQ7k.png",
+      "label": "Rectangle 26752",
+      "width": 250,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/5UO3w5avb0mauGvH9WTvyAWCXMU.png?width=730&height=490",
+      "canonical_url": "https://framerusercontent.com/images/5UO3w5avb0mauGvH9WTvyAWCXMU.png",
+      "label": "Rectangle 26752",
+      "width": 250,
+      "height": 180,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/KlBjTE6JaELs0o2dcusvg5uToXE.png?width=137&height=148",
+      "canonical_url": "https://framerusercontent.com/images/KlBjTE6JaELs0o2dcusvg5uToXE.png",
+      "label": "Percentage",
+      "width": 44,
+      "height": 52,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/HttiDTy5vRBIer3BYGIOmg9RC0.png?width=216&height=156",
+      "canonical_url": "https://framerusercontent.com/images/HttiDTy5vRBIer3BYGIOmg9RC0.png",
+      "label": "Million Dollar",
+      "width": 84,
+      "height": 71,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/4Md3lfN5OHtsjfHCCUJXRGTV2XQ.png?width=236&height=308",
+      "canonical_url": "https://framerusercontent.com/images/4Md3lfN5OHtsjfHCCUJXRGTV2XQ.png",
+      "label": "Untitled_Artwork copy 3 2",
+      "width": 34,
+      "height": 45,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/j8kC0OAQnBkYCJDqhZyFdpnGbP8.png?width=232&height=304",
+      "canonical_url": "https://framerusercontent.com/images/j8kC0OAQnBkYCJDqhZyFdpnGbP8.png",
+      "label": "Untitled_Artwork copy 3 2",
+      "width": 38,
+      "height": 47,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/imXwbxPrBvt6zaSrOby77uARKI.png?width=152&height=64",
+      "canonical_url": "https://framerusercontent.com/images/imXwbxPrBvt6zaSrOby77uARKI.png",
+      "label": "Flent Logo",
+      "width": 70,
+      "height": 29,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Cu9EVXx4ch4zXfUAmgRdqBvTw.png?width=849&height=664",
+      "canonical_url": "https://framerusercontent.com/images/Cu9EVXx4ch4zXfUAmgRdqBvTw.png",
+      "label": "Shail",
+      "width": 1080,
+      "height": 740,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/iipfakKxNtMOLiFtdGrSoOsGHCk.png?width=4161&height=3928",
+      "canonical_url": "https://framerusercontent.com/images/iipfakKxNtMOLiFtdGrSoOsGHCk.png",
+      "label": "Srinath",
+      "width": 1064,
+      "height": 598,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/WjMOJEVNgnhtAg57xGWaWxjZk.png?width=192&height=60",
+      "canonical_url": "https://framerusercontent.com/images/WjMOJEVNgnhtAg57xGWaWxjZk.png",
+      "label": "Knot Logo 2",
+      "width": 67,
+      "height": 21,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/L8dKpRygdPPzu6c3KCrpGvXGQNE.png?width=5565&height=4672",
+      "canonical_url": "https://framerusercontent.com/images/L8dKpRygdPPzu6c3KCrpGvXGQNE.png",
+      "label": "Archit",
+      "width": 1031,
+      "height": 687,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+      "canonical_url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+      "label": "Back Arrow",
+      "width": 40,
+      "height": 40,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+      "canonical_url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+      "label": "Next Arrow",
+      "width": 40,
+      "height": 40,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png?width=1360&height=664",
+      "canonical_url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png",
+      "label": "WEH Ventures Logo",
+      "width": 77,
+      "height": 38,
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/tjUcIP7VwwYLI7LQmVfDcK2zuM.png?width=253&height=124",
+      "canonical_url": "https://framerusercontent.com/images/tjUcIP7VwwYLI7LQmVfDcK2zuM.png",
+      "label": "Scribble Circle",
+      "width": 81,
+      "height": 40,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/0e2gqLxKeu1I5jGotcZlnAcCEgk.png?width=1395&height=660",
+      "canonical_url": "https://framerusercontent.com/images/0e2gqLxKeu1I5jGotcZlnAcCEgk.png",
+      "label": "1725001676934 1",
+      "width": 1280,
+      "height": 354,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/ZomduXZ7Kk8ZYMLjFv0nxjTrAk.png?width=806&height=1000",
+      "canonical_url": "https://framerusercontent.com/images/ZomduXZ7Kk8ZYMLjFv0nxjTrAk.png",
+      "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+      "width": 450,
+      "height": 500,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg?width=1768&height=22",
+      "canonical_url": "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg",
+      "label": "Group 134594",
+      "width": 1060,
+      "height": 22,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/OBTteXCywCBauoLnTtY6Xzbmo.png?width=664&height=1000",
+      "canonical_url": "https://framerusercontent.com/images/OBTteXCywCBauoLnTtY6Xzbmo.png",
+      "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+      "width": 450,
+      "height": 500,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/qzHVon8HK5Y9lF7PmUP9m5kXS5w.png?width=674&height=904",
+      "canonical_url": "https://framerusercontent.com/images/qzHVon8HK5Y9lF7PmUP9m5kXS5w.png",
+      "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+      "width": 420,
+      "height": 500,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/cgCRRoIIYvsymskVfpke54GUDU.jpg?width=812&height=822",
+      "canonical_url": "https://framerusercontent.com/images/cgCRRoIIYvsymskVfpke54GUDU.jpg",
+      "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+      "width": 450,
+      "height": 500,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/AKL9sfIDep3bEHWZHCtrucR4jm0.png?width=1824&height=2352",
+      "canonical_url": "https://framerusercontent.com/images/AKL9sfIDep3bEHWZHCtrucR4jm0.png",
+      "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+      "width": 420,
+      "height": 500,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/4D2dnk0aDntDAIxZenehYBf46E.png?width=2984&height=1372",
+      "canonical_url": "https://framerusercontent.com/images/4D2dnk0aDntDAIxZenehYBf46E.png",
+      "label": "istockphoto-185214254-612x612 1",
+      "width": 665,
+      "height": 305,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Balag6t8nC8a9yPIsFIedOQR8.png?width=2100&height=924",
+      "canonical_url": "https://framerusercontent.com/images/Balag6t8nC8a9yPIsFIedOQR8.png",
+      "label": "Untitled_Artwork 10 1",
+      "width": 468,
+      "height": 205,
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gcq1NCD1ntfv5pto13mhvxnW7s.svg?width=94&height=21",
+      "canonical_url": "https://framerusercontent.com/images/gcq1NCD1ntfv5pto13mhvxnW7s.svg",
+      "label": "Scribble Line",
+      "width": 76,
+      "height": 24,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gutW5aECOPw2Tb4vQEczWCUL24.png",
+      "canonical_url": "https://framerusercontent.com/images/gutW5aECOPw2Tb4vQEczWCUL24.png",
+      "label": "Robots",
+      "width": 205,
+      "height": 137,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/fJGMVAHxl3FSvnWrfPeClyYOtUk.png",
+      "canonical_url": "https://framerusercontent.com/images/fJGMVAHxl3FSvnWrfPeClyYOtUk.png",
+      "label": "Gaming",
+      "width": 208,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/KTOfFWewpYdCj3LceQLkq9XhUKs.png",
+      "canonical_url": "https://framerusercontent.com/images/KTOfFWewpYdCj3LceQLkq9XhUKs.png",
+      "label": "Fintech",
+      "width": 141,
+      "height": 141,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/RjtOXvnN2Vq5bQAsG4KPzAeQPE.png",
+      "canonical_url": "https://framerusercontent.com/images/RjtOXvnN2Vq5bQAsG4KPzAeQPE.png",
+      "label": "Recipes",
+      "width": 203,
+      "height": 158,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/vXnvGFp59eniYOHVehdwUksU.png",
+      "canonical_url": "https://framerusercontent.com/images/vXnvGFp59eniYOHVehdwUksU.png",
+      "label": "Gold",
+      "width": 160,
+      "height": 114,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/cUSt7dWqIOxP9If701NZAblpx40.png",
+      "canonical_url": "https://framerusercontent.com/images/cUSt7dWqIOxP9If701NZAblpx40.png",
+      "label": "Faith",
+      "width": 186,
+      "height": 166,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/7GiSbdqpbsEzLG2OL5xevt9s.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/7GiSbdqpbsEzLG2OL5xevt9s.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Ue7TlS4JaBrXwiFJbXtqYudveE0.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/Ue7TlS4JaBrXwiFJbXtqYudveE0.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Qbx0aDLUoIAMmA4UCgmnxilw.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/Qbx0aDLUoIAMmA4UCgmnxilw.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/17qSGrDXpPHf7GeUWbtDrjH1bTw.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/17qSGrDXpPHf7GeUWbtDrjH1bTw.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/eE83FcnOThCD1CAkcGV3Px0v8CY.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/eE83FcnOThCD1CAkcGV3Px0v8CY.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gjuhZJSpPy1yPscyyaUoX14sVAo.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/gjuhZJSpPy1yPscyyaUoX14sVAo.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/BV94OpihVPloqNcxZUVoV1LuRA.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/BV94OpihVPloqNcxZUVoV1LuRA.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/psHhEoxNBdqIDoIQ51ePWEEfyF4.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/psHhEoxNBdqIDoIQ51ePWEEfyF4.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/SiIFMLeZmPTN4xHsYLBxXhjRBE.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/SiIFMLeZmPTN4xHsYLBxXhjRBE.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/wo3Tsee6IY6luqocF8BNyq8M0.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/wo3Tsee6IY6luqocF8BNyq8M0.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gqJNUQhaiQyHVmQazOZriT7Ek.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/gqJNUQhaiQyHVmQazOZriT7Ek.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Vfm6XTwAW4hWftlm7V12u2tp90.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/Vfm6XTwAW4hWftlm7V12u2tp90.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/OK2nQ9N5dNYtPPYagPVwvRRkBg.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/OK2nQ9N5dNYtPPYagPVwvRRkBg.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/O6tZp10SYcqYQOnkHTs7sL81ROg.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/O6tZp10SYcqYQOnkHTs7sL81ROg.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/zUUrCKog7IiKHWm9Azx4LAG1xM.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/zUUrCKog7IiKHWm9Azx4LAG1xM.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/iW5YGz7OdqNFdEcJNjY8TIuYQH0.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/iW5YGz7OdqNFdEcJNjY8TIuYQH0.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/PmKKxG03TsnDOtGYE8kr2ePCo.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/PmKKxG03TsnDOtGYE8kr2ePCo.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/mD3glqTvS8h9ueO5axIYHTwT1w.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/mD3glqTvS8h9ueO5axIYHTwT1w.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/aEFlwtvUOtSvBAn2AfOuTfP7VmE.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/aEFlwtvUOtSvBAn2AfOuTfP7VmE.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/BWQUto4fPYfewo7hMjtL900md44.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/BWQUto4fPYfewo7hMjtL900md44.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/uQ1Tsp4OYTlykeCG3K50qHhcKY.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/uQ1Tsp4OYTlykeCG3K50qHhcKY.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Uwk6vIuLuP9GKc7tXBpiD72CN9c.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/Uwk6vIuLuP9GKc7tXBpiD72CN9c.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/2u2Oeg0eWq3mn2Puxmp11q3D0I.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/2u2Oeg0eWq3mn2Puxmp11q3D0I.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/pTST77VhnO8FMZeN5tX8GBD842c.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/pTST77VhnO8FMZeN5tX8GBD842c.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/BA7aNM43aPzfbrJMJ0JHLSZpNs.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/BA7aNM43aPzfbrJMJ0JHLSZpNs.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/BdbRJDMrukJUi4nr4g9xjZRv90A.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/BdbRJDMrukJUi4nr4g9xjZRv90A.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/qCILzaQBtau8hvzUswQW5HvoHmc.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/qCILzaQBtau8hvzUswQW5HvoHmc.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/VKwVTIL1ApLcRykCBqNCLRaAefQ.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/VKwVTIL1ApLcRykCBqNCLRaAefQ.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/lF5ljqbcXmPkim35nOccy16ekWs.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/lF5ljqbcXmPkim35nOccy16ekWs.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/images/VDyaocSCXXNm26l5kObtwglw81s.png?width=225&height=225",
+      "canonical_url": "https://framerusercontent.com/images/VDyaocSCXXNm26l5kObtwglw81s.png",
+      "label": "Portfolio MC Logo",
+      "width": 150,
+      "height": 150,
+      "source_page": "/portfolio"
+    }
+  ],
+  "unlabeled_entries": [
+    {
+      "url": "https://framerusercontent.com/assets/24d8dgA9Qc0G5hLWs75INrkaM.mp4",
+      "canonical_url": "https://framerusercontent.com/assets/24d8dgA9Qc0G5hLWs75INrkaM.mp4",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+      "canonical_url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/assets/rqEtA3MegEJM9wqrvmpAFHp4.mp4",
+      "canonical_url": "https://framerusercontent.com/assets/rqEtA3MegEJM9wqrvmpAFHp4.mp4",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/2S4RAUU27B5i5IxyNDICcSdv5E.png?width=702&height=332",
+      "canonical_url": "https://framerusercontent.com/images/2S4RAUU27B5i5IxyNDICcSdv5E.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png?width=201&height=200",
+      "canonical_url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/I47n891sGQVkLJ8WreSczymtrQ.png?width=226&height=225",
+      "canonical_url": "https://framerusercontent.com/images/I47n891sGQVkLJ8WreSczymtrQ.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+      "canonical_url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+      "canonical_url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+      "canonical_url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/5fXI70uFnGhKr_qGvXZe4QmOdeXNWqPvMqfXnWzlYOk.DVhQThm6.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/5fXI70uFnGhKr_qGvXZe4QmOdeXNWqPvMqfXnWzlYOk.DVhQThm6.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/augiA20Il.CVlBUzSa.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/augiA20Il.CVlBUzSa.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/ighZ3iCIK.1VTvzmzF.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/ighZ3iCIK.1VTvzmzF.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/utils.js@_0.9.Bk-R_hbi.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/utils.js@_0.9.Bk-R_hbi.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/"
+    },
+    {
+      "url": "https://framerusercontent.com/images/p0b5ezw6VbPs2HQCdTEfXCZgd0.png?scale-down-to=2048&width=3893&height=3894",
+      "canonical_url": "https://framerusercontent.com/images/p0b5ezw6VbPs2HQCdTEfXCZgd0.png",
+      "label": "",
+      "category": "Raster Image",
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/E9nMVDEu6w8luRYqEw4NHVHOh60dWd00zi7h-b27g6I.BfA8se7-.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/E9nMVDEu6w8luRYqEw4NHVHOh60dWd00zi7h-b27g6I.BfA8se7-.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xUpitOilS.Zi7Ei4p5.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xUpitOilS.Zi7Ei4p5.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/team"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/fivISYAVGy2iwQxadd3BzmfAFrWO9uqbbiHfBe2jyig.hQFrPNWQ.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/fivISYAVGy2iwQxadd3BzmfAFrWO9uqbbiHfBe2jyig.hQFrPNWQ.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/mbbUHLdmm.CcwwTEiH.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/mbbUHLdmm.CcwwTEiH.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/portfolio"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xfA1Xzoc_.BHj59IxV.mjs",
+      "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xfA1Xzoc_.BHj59IxV.mjs",
+      "label": "",
+      "category": "Framer CDN Asset",
+      "source_page": "/portfolio"
+    }
+  ],
+  "by_page": {
+    "/": {
+      "labeled": [
+        {
+          "url": "https://framerusercontent.com/images/tatPtxZEcZ8is91aUZ4x2Dfgp8.png?width=773&height=332",
+          "canonical_url": "https://framerusercontent.com/images/tatPtxZEcZ8is91aUZ4x2Dfgp8.png",
+          "label": "Create It",
+          "width": 273,
+          "height": 64,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg?width=2226&height=14",
+          "canonical_url": "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg",
+          "label": "Texture Vector",
+          "width": 1469,
+          "height": 14,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/CJkXvb79dcQIiiATbugzmwMxs.png?width=3248&height=2168",
+          "canonical_url": "https://framerusercontent.com/images/CJkXvb79dcQIiiATbugzmwMxs.png",
+          "label": "335-3350286_ripped-notebook-paper-png-transparent-png 1",
+          "width": 754,
+          "height": 503,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/jqoWB2xLKzLtxB6HnOXNfDo2p4.png?width=2204&height=1100",
+          "canonical_url": "https://framerusercontent.com/images/jqoWB2xLKzLtxB6HnOXNfDo2p4.png",
+          "label": "Untitled_Artwork 9 1",
+          "width": 511,
+          "height": 255,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png",
+          "label": "Smallcase Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png",
+          "label": "Apps For Bharat Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/xuILP4QkYugsiU1crLZKeKRT7Gc.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/xuILP4QkYugsiU1crLZKeKRT7Gc.png",
+          "label": "Animall Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png",
+          "label": "Jar Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png",
+          "label": "Master Chow Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/ZboBE713hIAvP9HXdmROGzb32Tw.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/ZboBE713hIAvP9HXdmROGzb32Tw.png",
+          "label": "Game Theory Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/nZ88y5IABJO6R98Y362XRXTYmw.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/nZ88y5IABJO6R98Y362XRXTYmw.png",
+          "label": "Pratilipi Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/qwRGu3joNJozbQ7MDK9smKioMVk.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/qwRGu3joNJozbQ7MDK9smKioMVk.png",
+          "label": "Fragaria Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/4VVrLfmPx7qxv3ivK3363owGGg.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/4VVrLfmPx7qxv3ivK3363owGGg.png",
+          "label": "Flent Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/HyjtVdEBvGMlsCk3HGQOQnOOo4U.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/HyjtVdEBvGMlsCk3HGQOQnOOo4U.png",
+          "label": "Segmind Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/kjAHxQSKCEG8GSjCFrgR0FENEbM.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/kjAHxQSKCEG8GSjCFrgR0FENEbM.png",
+          "label": "Clinikk Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/weAglkgTrgoNbEFRWYpdI5mn8.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/weAglkgTrgoNbEFRWYpdI5mn8.png",
+          "label": "Time Pass Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/F3kIcDAf2MreimMjhMN3dUXl8Y.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/F3kIcDAf2MreimMjhMN3dUXl8Y.png",
+          "label": "Noto Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/1rqsOrcS3oQDfsdJtNbkBWqXUAw.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/1rqsOrcS3oQDfsdJtNbkBWqXUAw.png",
+          "label": "Hectar Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/hLJuMS8t4l12Ugn3yLhdXr9GCiU.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/hLJuMS8t4l12Ugn3yLhdXr9GCiU.png",
+          "label": "Charcoal Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/KhiuqXhNbJWNdW5Ci4BdVwTVZc.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/KhiuqXhNbJWNdW5Ci4BdVwTVZc.png",
+          "label": "Sustvest Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/PFTcqnaalNaLSIlO8JperT0t3KI.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/PFTcqnaalNaLSIlO8JperT0t3KI.png",
+          "label": "Knot Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/uvQk66uccc53vFkk1q0HJX0IOpw.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/uvQk66uccc53vFkk1q0HJX0IOpw.png",
+          "label": "Infinity Box Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/BM4owf8oyvK5opYUISrNS5RAV8.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/BM4owf8oyvK5opYUISrNS5RAV8.png",
+          "label": "Magma Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Ru94fMZuvwaMUNoFOUutVtK0Mv0.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/Ru94fMZuvwaMUNoFOUutVtK0Mv0.png",
+          "label": "Draconic Logo",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/XlXqsjjmOKOEiTnUsMg6vZsbc90.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/XlXqsjjmOKOEiTnUsMg6vZsbc90.png",
+          "label": "Mitigata Logo",
+          "width": 180,
+          "height": 179,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/2PncJHUvkFt6wuU6Qs7b6Wiuw.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/2PncJHUvkFt6wuU6Qs7b6Wiuw.png",
+          "label": "Stellar Play",
+          "width": 180,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/DxBTJSCLseEJgvKNUdS6Ohucbs.png?width=1001&height=500",
+          "canonical_url": "https://framerusercontent.com/images/DxBTJSCLseEJgvKNUdS6Ohucbs.png",
+          "label": "01-MC",
+          "width": 501,
+          "height": 250,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/4VIyF0ubnjL6dRIpwGBMhAF0f4.png?width=1000&height=500",
+          "canonical_url": "https://framerusercontent.com/images/4VIyF0ubnjL6dRIpwGBMhAF0f4.png",
+          "label": "01-MC",
+          "width": 501,
+          "height": 250,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/ChIxJ7AH4fgxtjHATwrOZrypVI.png?width=1000&height=500",
+          "canonical_url": "https://framerusercontent.com/images/ChIxJ7AH4fgxtjHATwrOZrypVI.png",
+          "label": "01-MC",
+          "width": 501,
+          "height": 250,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/OcEFVkOQ48HHug5OFGkmXcjiPig.png?width=1000&height=500",
+          "canonical_url": "https://framerusercontent.com/images/OcEFVkOQ48HHug5OFGkmXcjiPig.png",
+          "label": "01-MC",
+          "width": 501,
+          "height": 250,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/R10GWGhu5Kr1PAeLFidhyCxPQ7k.png?width=731&height=490",
+          "canonical_url": "https://framerusercontent.com/images/R10GWGhu5Kr1PAeLFidhyCxPQ7k.png",
+          "label": "Rectangle 26752",
+          "width": 250,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/5UO3w5avb0mauGvH9WTvyAWCXMU.png?width=730&height=490",
+          "canonical_url": "https://framerusercontent.com/images/5UO3w5avb0mauGvH9WTvyAWCXMU.png",
+          "label": "Rectangle 26752",
+          "width": 250,
+          "height": 180,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/KlBjTE6JaELs0o2dcusvg5uToXE.png?width=137&height=148",
+          "canonical_url": "https://framerusercontent.com/images/KlBjTE6JaELs0o2dcusvg5uToXE.png",
+          "label": "Percentage",
+          "width": 44,
+          "height": 52,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/HttiDTy5vRBIer3BYGIOmg9RC0.png?width=216&height=156",
+          "canonical_url": "https://framerusercontent.com/images/HttiDTy5vRBIer3BYGIOmg9RC0.png",
+          "label": "Million Dollar",
+          "width": 84,
+          "height": 71,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/4Md3lfN5OHtsjfHCCUJXRGTV2XQ.png?width=236&height=308",
+          "canonical_url": "https://framerusercontent.com/images/4Md3lfN5OHtsjfHCCUJXRGTV2XQ.png",
+          "label": "Untitled_Artwork copy 3 2",
+          "width": 34,
+          "height": 45,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/j8kC0OAQnBkYCJDqhZyFdpnGbP8.png?width=232&height=304",
+          "canonical_url": "https://framerusercontent.com/images/j8kC0OAQnBkYCJDqhZyFdpnGbP8.png",
+          "label": "Untitled_Artwork copy 3 2",
+          "width": 38,
+          "height": 47,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/imXwbxPrBvt6zaSrOby77uARKI.png?width=152&height=64",
+          "canonical_url": "https://framerusercontent.com/images/imXwbxPrBvt6zaSrOby77uARKI.png",
+          "label": "Flent Logo",
+          "width": 70,
+          "height": 29,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Cu9EVXx4ch4zXfUAmgRdqBvTw.png?width=849&height=664",
+          "canonical_url": "https://framerusercontent.com/images/Cu9EVXx4ch4zXfUAmgRdqBvTw.png",
+          "label": "Shail",
+          "width": 1080,
+          "height": 740,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/iipfakKxNtMOLiFtdGrSoOsGHCk.png?width=4161&height=3928",
+          "canonical_url": "https://framerusercontent.com/images/iipfakKxNtMOLiFtdGrSoOsGHCk.png",
+          "label": "Srinath",
+          "width": 1064,
+          "height": 598,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/WjMOJEVNgnhtAg57xGWaWxjZk.png?width=192&height=60",
+          "canonical_url": "https://framerusercontent.com/images/WjMOJEVNgnhtAg57xGWaWxjZk.png",
+          "label": "Knot Logo 2",
+          "width": 67,
+          "height": 21,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/L8dKpRygdPPzu6c3KCrpGvXGQNE.png?width=5565&height=4672",
+          "canonical_url": "https://framerusercontent.com/images/L8dKpRygdPPzu6c3KCrpGvXGQNE.png",
+          "label": "Archit",
+          "width": 1031,
+          "height": 687,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+          "canonical_url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+          "label": "Back Arrow",
+          "width": 40,
+          "height": 40,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+          "canonical_url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+          "label": "Next Arrow",
+          "width": 40,
+          "height": 40,
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png?width=1360&height=664",
+          "canonical_url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png",
+          "label": "WEH Ventures Logo",
+          "width": 77,
+          "height": 38,
+          "source_page": "/"
+        }
+      ],
+      "unlabeled": [
+        {
+          "url": "https://framerusercontent.com/assets/24d8dgA9Qc0G5hLWs75INrkaM.mp4",
+          "canonical_url": "https://framerusercontent.com/assets/24d8dgA9Qc0G5hLWs75INrkaM.mp4",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/rqEtA3MegEJM9wqrvmpAFHp4.mp4",
+          "canonical_url": "https://framerusercontent.com/assets/rqEtA3MegEJM9wqrvmpAFHp4.mp4",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/2S4RAUU27B5i5IxyNDICcSdv5E.png?width=702&height=332",
+          "canonical_url": "https://framerusercontent.com/images/2S4RAUU27B5i5IxyNDICcSdv5E.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png?width=201&height=200",
+          "canonical_url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/I47n891sGQVkLJ8WreSczymtrQ.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/I47n891sGQVkLJ8WreSczymtrQ.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+          "canonical_url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+          "canonical_url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+          "canonical_url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/5fXI70uFnGhKr_qGvXZe4QmOdeXNWqPvMqfXnWzlYOk.DVhQThm6.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/5fXI70uFnGhKr_qGvXZe4QmOdeXNWqPvMqfXnWzlYOk.DVhQThm6.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/augiA20Il.CVlBUzSa.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/augiA20Il.CVlBUzSa.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/ighZ3iCIK.1VTvzmzF.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/ighZ3iCIK.1VTvzmzF.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/utils.js@_0.9.Bk-R_hbi.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/utils.js@_0.9.Bk-R_hbi.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/"
+        }
+      ]
+    },
+    "/team": {
+      "labeled": [
+        {
+          "url": "https://framerusercontent.com/images/tjUcIP7VwwYLI7LQmVfDcK2zuM.png?width=253&height=124",
+          "canonical_url": "https://framerusercontent.com/images/tjUcIP7VwwYLI7LQmVfDcK2zuM.png",
+          "label": "Scribble Circle",
+          "width": 81,
+          "height": 40,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/0e2gqLxKeu1I5jGotcZlnAcCEgk.png?width=1395&height=660",
+          "canonical_url": "https://framerusercontent.com/images/0e2gqLxKeu1I5jGotcZlnAcCEgk.png",
+          "label": "1725001676934 1",
+          "width": 1280,
+          "height": 354,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/ZomduXZ7Kk8ZYMLjFv0nxjTrAk.png?width=806&height=1000",
+          "canonical_url": "https://framerusercontent.com/images/ZomduXZ7Kk8ZYMLjFv0nxjTrAk.png",
+          "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+          "width": 450,
+          "height": 500,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg?width=1768&height=22",
+          "canonical_url": "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg",
+          "label": "Group 134594",
+          "width": 1060,
+          "height": 22,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/OBTteXCywCBauoLnTtY6Xzbmo.png?width=664&height=1000",
+          "canonical_url": "https://framerusercontent.com/images/OBTteXCywCBauoLnTtY6Xzbmo.png",
+          "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+          "width": 450,
+          "height": 500,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/qzHVon8HK5Y9lF7PmUP9m5kXS5w.png?width=674&height=904",
+          "canonical_url": "https://framerusercontent.com/images/qzHVon8HK5Y9lF7PmUP9m5kXS5w.png",
+          "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+          "width": 420,
+          "height": 500,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/cgCRRoIIYvsymskVfpke54GUDU.jpg?width=812&height=822",
+          "canonical_url": "https://framerusercontent.com/images/cgCRRoIIYvsymskVfpke54GUDU.jpg",
+          "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+          "width": 450,
+          "height": 500,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/AKL9sfIDep3bEHWZHCtrucR4jm0.png?width=1824&height=2352",
+          "canonical_url": "https://framerusercontent.com/images/AKL9sfIDep3bEHWZHCtrucR4jm0.png",
+          "label": "HD3sl88jURQ8O3RJNaYQmh1RG8I",
+          "width": 420,
+          "height": 500,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/4D2dnk0aDntDAIxZenehYBf46E.png?width=2984&height=1372",
+          "canonical_url": "https://framerusercontent.com/images/4D2dnk0aDntDAIxZenehYBf46E.png",
+          "label": "istockphoto-185214254-612x612 1",
+          "width": 665,
+          "height": 305,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Balag6t8nC8a9yPIsFIedOQR8.png?width=2100&height=924",
+          "canonical_url": "https://framerusercontent.com/images/Balag6t8nC8a9yPIsFIedOQR8.png",
+          "label": "Untitled_Artwork 10 1",
+          "width": 468,
+          "height": 205,
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png?width=1360&height=664",
+          "canonical_url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png",
+          "label": "WEH Ventures Logo",
+          "width": 77,
+          "height": 38,
+          "source_page": "/team"
+        }
+      ],
+      "unlabeled": [
+        {
+          "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png?width=201&height=200",
+          "canonical_url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+          "canonical_url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/p0b5ezw6VbPs2HQCdTEfXCZgd0.png?scale-down-to=2048&width=3893&height=3894",
+          "canonical_url": "https://framerusercontent.com/images/p0b5ezw6VbPs2HQCdTEfXCZgd0.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+          "canonical_url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+          "canonical_url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/E9nMVDEu6w8luRYqEw4NHVHOh60dWd00zi7h-b27g6I.BfA8se7-.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/E9nMVDEu6w8luRYqEw4NHVHOh60dWd00zi7h-b27g6I.BfA8se7-.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xUpitOilS.Zi7Ei4p5.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xUpitOilS.Zi7Ei4p5.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/team"
+        }
+      ]
+    },
+    "/portfolio": {
+      "labeled": [
+        {
+          "url": "https://framerusercontent.com/images/gcq1NCD1ntfv5pto13mhvxnW7s.svg?width=94&height=21",
+          "canonical_url": "https://framerusercontent.com/images/gcq1NCD1ntfv5pto13mhvxnW7s.svg",
+          "label": "Scribble Line",
+          "width": 76,
+          "height": 24,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/gutW5aECOPw2Tb4vQEczWCUL24.png",
+          "canonical_url": "https://framerusercontent.com/images/gutW5aECOPw2Tb4vQEczWCUL24.png",
+          "label": "Robots",
+          "width": 205,
+          "height": 137,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/fJGMVAHxl3FSvnWrfPeClyYOtUk.png",
+          "canonical_url": "https://framerusercontent.com/images/fJGMVAHxl3FSvnWrfPeClyYOtUk.png",
+          "label": "Gaming",
+          "width": 208,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/KTOfFWewpYdCj3LceQLkq9XhUKs.png",
+          "canonical_url": "https://framerusercontent.com/images/KTOfFWewpYdCj3LceQLkq9XhUKs.png",
+          "label": "Fintech",
+          "width": 141,
+          "height": 141,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/RjtOXvnN2Vq5bQAsG4KPzAeQPE.png",
+          "canonical_url": "https://framerusercontent.com/images/RjtOXvnN2Vq5bQAsG4KPzAeQPE.png",
+          "label": "Recipes",
+          "width": 203,
+          "height": 158,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/vXnvGFp59eniYOHVehdwUksU.png",
+          "canonical_url": "https://framerusercontent.com/images/vXnvGFp59eniYOHVehdwUksU.png",
+          "label": "Gold",
+          "width": 160,
+          "height": 114,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/cUSt7dWqIOxP9If701NZAblpx40.png",
+          "canonical_url": "https://framerusercontent.com/images/cUSt7dWqIOxP9If701NZAblpx40.png",
+          "label": "Faith",
+          "width": 186,
+          "height": 166,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg?width=2226&height=14",
+          "canonical_url": "https://framerusercontent.com/images/0RIZuLJpRJVtfKC73qADkzQb6Q.svg",
+          "label": "Texture Vector",
+          "width": 1469,
+          "height": 14,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg?width=1768&height=22",
+          "canonical_url": "https://framerusercontent.com/images/gfIuXnAUe6YLTo84quPWnjSLzjE.svg",
+          "label": "Group 134594",
+          "width": 1440,
+          "height": 18,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/7GiSbdqpbsEzLG2OL5xevt9s.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/7GiSbdqpbsEzLG2OL5xevt9s.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Ue7TlS4JaBrXwiFJbXtqYudveE0.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/Ue7TlS4JaBrXwiFJbXtqYudveE0.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Qbx0aDLUoIAMmA4UCgmnxilw.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/Qbx0aDLUoIAMmA4UCgmnxilw.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/17qSGrDXpPHf7GeUWbtDrjH1bTw.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/17qSGrDXpPHf7GeUWbtDrjH1bTw.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/eE83FcnOThCD1CAkcGV3Px0v8CY.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/eE83FcnOThCD1CAkcGV3Px0v8CY.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/gjuhZJSpPy1yPscyyaUoX14sVAo.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/gjuhZJSpPy1yPscyyaUoX14sVAo.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/BV94OpihVPloqNcxZUVoV1LuRA.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/BV94OpihVPloqNcxZUVoV1LuRA.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/psHhEoxNBdqIDoIQ51ePWEEfyF4.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/psHhEoxNBdqIDoIQ51ePWEEfyF4.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/SiIFMLeZmPTN4xHsYLBxXhjRBE.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/SiIFMLeZmPTN4xHsYLBxXhjRBE.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/wo3Tsee6IY6luqocF8BNyq8M0.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/wo3Tsee6IY6luqocF8BNyq8M0.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/gqJNUQhaiQyHVmQazOZriT7Ek.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/gqJNUQhaiQyHVmQazOZriT7Ek.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Vfm6XTwAW4hWftlm7V12u2tp90.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/Vfm6XTwAW4hWftlm7V12u2tp90.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/OK2nQ9N5dNYtPPYagPVwvRRkBg.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/OK2nQ9N5dNYtPPYagPVwvRRkBg.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/O6tZp10SYcqYQOnkHTs7sL81ROg.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/O6tZp10SYcqYQOnkHTs7sL81ROg.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/zUUrCKog7IiKHWm9Azx4LAG1xM.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/zUUrCKog7IiKHWm9Azx4LAG1xM.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/iW5YGz7OdqNFdEcJNjY8TIuYQH0.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/iW5YGz7OdqNFdEcJNjY8TIuYQH0.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/PmKKxG03TsnDOtGYE8kr2ePCo.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/PmKKxG03TsnDOtGYE8kr2ePCo.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/mD3glqTvS8h9ueO5axIYHTwT1w.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/mD3glqTvS8h9ueO5axIYHTwT1w.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/aEFlwtvUOtSvBAn2AfOuTfP7VmE.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/aEFlwtvUOtSvBAn2AfOuTfP7VmE.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWQUto4fPYfewo7hMjtL900md44.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/BWQUto4fPYfewo7hMjtL900md44.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/uQ1Tsp4OYTlykeCG3K50qHhcKY.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/uQ1Tsp4OYTlykeCG3K50qHhcKY.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Uwk6vIuLuP9GKc7tXBpiD72CN9c.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/Uwk6vIuLuP9GKc7tXBpiD72CN9c.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/2u2Oeg0eWq3mn2Puxmp11q3D0I.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/2u2Oeg0eWq3mn2Puxmp11q3D0I.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/pTST77VhnO8FMZeN5tX8GBD842c.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/pTST77VhnO8FMZeN5tX8GBD842c.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/BA7aNM43aPzfbrJMJ0JHLSZpNs.png?width=226&height=225",
+          "canonical_url": "https://framerusercontent.com/images/BA7aNM43aPzfbrJMJ0JHLSZpNs.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/BdbRJDMrukJUi4nr4g9xjZRv90A.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/BdbRJDMrukJUi4nr4g9xjZRv90A.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/qCILzaQBtau8hvzUswQW5HvoHmc.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/qCILzaQBtau8hvzUswQW5HvoHmc.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VKwVTIL1ApLcRykCBqNCLRaAefQ.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/VKwVTIL1ApLcRykCBqNCLRaAefQ.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/lF5ljqbcXmPkim35nOccy16ekWs.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/lF5ljqbcXmPkim35nOccy16ekWs.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VDyaocSCXXNm26l5kObtwglw81s.png?width=225&height=225",
+          "canonical_url": "https://framerusercontent.com/images/VDyaocSCXXNm26l5kObtwglw81s.png",
+          "label": "Portfolio MC Logo",
+          "width": 150,
+          "height": 150,
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png?width=1360&height=664",
+          "canonical_url": "https://framerusercontent.com/images/TIkSpmyU4SRBLJ2x1NfV0GCOJx0.png",
+          "label": "WEH Ventures Logo",
+          "width": 77,
+          "height": 38,
+          "source_page": "/portfolio"
+        }
+      ],
+      "unlabeled": [
+        {
+          "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/9R4H3DBAR1SjTVRpotajw9eAps.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/dgVL0YDgFeWNk17a6VHs3nA6Ww.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+          "canonical_url": "https://framerusercontent.com/assets/fwMMgtVNKZ9iykA8zI08bchsVbY.woff2",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png?width=201&height=200",
+          "canonical_url": "https://framerusercontent.com/images/7w8FKhvoF4iximNtQmz98zw1V0.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+          "canonical_url": "https://framerusercontent.com/images/VDLsuPFxs2p1fkpfNLS8SmBuos.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+          "canonical_url": "https://framerusercontent.com/images/xcKcuUTRacHQHFXQypwylhtJbw.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+          "canonical_url": "https://framerusercontent.com/images/ymDnyodVWft16g4JtHiCvDQclQ.png",
+          "label": "",
+          "category": "Raster Image",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/fivISYAVGy2iwQxadd3BzmfAFrWO9uqbbiHfBe2jyig.hQFrPNWQ.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/fivISYAVGy2iwQxadd3BzmfAFrWO9uqbbiHfBe2jyig.hQFrPNWQ.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/framer.CyIpMlB3.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/mbbUHLdmm.CcwwTEiH.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/mbbUHLdmm.CcwwTEiH.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/motion.BXmgjKnu.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/react.DWRCl7BP.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/rolldown-runtime.OA-FSkXT.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/script_main.TWnigAR5.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/shared-lib.BR3fFClp.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/utils.js@_0.9.Bk-R_hbi.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/utils.js@_0.9.Bk-R_hbi.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        },
+        {
+          "url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xfA1Xzoc_.BHj59IxV.mjs",
+          "canonical_url": "https://framerusercontent.com/sites/Qno2sGIRNMRRDXcmJBQXD/xfA1Xzoc_.BHj59IxV.mjs",
+          "label": "",
+          "category": "Framer CDN Asset",
+          "source_page": "/portfolio"
+        }
+      ]
+    }
+  }
+}

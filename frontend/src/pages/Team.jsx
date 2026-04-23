@@ -7,6 +7,7 @@ const team = [
     name: 'Deepak Gupta',
     role: 'Partner',
     bio: "The transformation optimist who's been around long enough to type emails on monochrome screens. Can be found trying to figure out what India needs next. Loves spotting 'unlabeled' founders with inchoate ideas and helping them come to fruition. Gets kicks from deals and shaping things for the fund — from capital allocation to team development.",
+    photo: '/images/deepak.png',
     initial: 'D',
     isPartner: true,
   },
@@ -15,6 +16,7 @@ const team = [
     name: 'Rohit Krishna',
     role: 'Partner',
     bio: "Started with corporate bonds at Moody's, tried listed equity at Spark Capital, then fell hard for early-stage investing in 2015. Spends way too much time playing with new consumer products. Always up for beer at Toit or coffee at Paper & Pie. Believes in-person meetings > phone calls > Zoom.",
+    photo: '/images/rohit.png',
     initial: 'R',
     isPartner: true,
   },
@@ -23,6 +25,7 @@ const team = [
     name: 'Ritik Rustagi',
     role: 'Investment Team',
     bio: 'Endlessly curious about how different businesses work and how founders disrupt the status quo. Background spans equity analysis, hedge fund internships, running consultancy cells, and reading classics.',
+    photo: '/images/ritik.png',
     initial: 'R',
     isPartner: false,
   },
@@ -31,6 +34,7 @@ const team = [
     name: 'Ayush Sahoo',
     role: 'Investment Team',
     bio: 'Started at ITC across large-scale FMCG operations, then moved into early-stage investing. Focuses on go-to-market strategy, unit economics, and AI workflows. Studied engineering at IIT Kharagpur. Preference for first-principles thinking over narrative-driven slides.',
+    photo: '/images/ayush-sahoo.jpg',
     initial: 'A',
     isPartner: false,
   },
@@ -39,6 +43,7 @@ const team = [
     name: 'Ayush Tyagi',
     role: 'Investment Team',
     bio: 'Mathematics grad with a focus on understanding investing across company life cycles. Background spanning Private Equity and Public Markets. Hunts for public market compounders on weekends. Avid movie buff.',
+    photo: '/images/ayush-tyagi.png',
     initial: 'A',
     isPartner: false,
   },
@@ -89,9 +94,13 @@ export default function Team() {
                   onMouseEnter={e => e.currentTarget.style.backgroundColor = '#fff7ed'}
                   onMouseLeave={e => e.currentTarget.style.backgroundColor = '#ffffff'}
                 >
-                  {/* Avatar */}
-                  <div style={{ width: '64px', height: '64px', backgroundColor: '#0a0a0a', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '2px', marginBottom: '1.5rem' }} aria-hidden="true">
-                    <span style={{ color: '#f97316', fontWeight: 900, fontSize: '1.5rem', fontFamily: "'Syne', sans-serif" }}>{member.initial}</span>
+                  {/* Photo */}
+                  <div style={{ width: '100%', aspectRatio: '4/5', overflow: 'hidden', marginBottom: '1.5rem', backgroundColor: '#f5f5f5' }}>
+                    <img
+                      src={member.photo}
+                      alt={`Photo of ${member.name}`}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top', display: 'block' }}
+                    />
                   </div>
                   <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.25rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.375rem', letterSpacing: '0.02em' }}>
                     {member.name}
@@ -120,8 +129,13 @@ export default function Team() {
                   onMouseEnter={e => e.currentTarget.style.backgroundColor = '#fff7ed'}
                   onMouseLeave={e => e.currentTarget.style.backgroundColor = '#ffffff'}
                 >
-                  <div style={{ width: '48px', height: '48px', backgroundColor: '#fafafa', border: '1px solid #e5e5e5', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '2px', marginBottom: '1.25rem' }} aria-hidden="true">
-                    <span style={{ color: '#0a0a0a', fontWeight: 900, fontSize: '1rem', fontFamily: "'Syne', sans-serif" }}>{member.initial}</span>
+                  {/* Photo */}
+                  <div style={{ width: '100%', aspectRatio: '3/4', overflow: 'hidden', marginBottom: '1.25rem', backgroundColor: '#f5f5f5' }}>
+                    <img
+                      src={member.photo}
+                      alt={`Photo of ${member.name}`}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top', display: 'block' }}
+                    />
                   </div>
                   <h3 id={`name-${member.id}`} style={{ fontFamily: "'Syne', sans-serif", fontSize: '1rem', fontWeight: 900, color: '#0a0a0a', textTransform: 'uppercase', marginBottom: '0.25rem', letterSpacing: '0.02em' }}>
                     {member.name}

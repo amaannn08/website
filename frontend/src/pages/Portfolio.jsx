@@ -7,29 +7,29 @@ const FILTERS = [
 ];
 
 const portfolio = [
-  { name: 'MasterChow', sector: 'Brands', tagline: 'Ready-to-cook products for Asian cuisine', status: 'EXITED' },
-  { name: 'Smallcase', sector: 'Fintech', tagline: 'Leading platform for passive investing', status: 'EXITED' },
-  { name: 'Apps for Bharat', sector: 'Consumer Tech', tagline: 'All-encompassing spiritual app' },
-  { name: 'Jar', sector: 'Fintech', tagline: 'Digital gold savings platform for Bharat' },
-  { name: 'Animall', sector: 'Agri-Tech', tagline: 'Platform focused on dairy farmers' },
+  { name: 'MasterChow', sector: 'Brands', tagline: 'Ready-to-cook products for Asian cuisine', status: 'EXITED', logo: 'https://framerusercontent.com/images/HbVNAm4nKNzXIq2uK27nIhiWrbk.png' },
+  { name: 'Smallcase', sector: 'Fintech', tagline: 'Leading platform for passive investing', status: 'EXITED', logo: 'https://framerusercontent.com/images/TGbx0WT8ZdzNRJnYm4bFrq9Tkk.png' },
+  { name: 'Apps for Bharat', sector: 'Consumer Tech', tagline: 'All-encompassing spiritual app', logo: 'https://framerusercontent.com/images/e9fC0PshY5pLszyHKzmcF1n6XY.png' },
+  { name: 'Jar', sector: 'Fintech', tagline: 'Digital gold savings platform for Bharat', logo: 'https://framerusercontent.com/images/Sec3IHkJsCqlPsLxLIeykpvLXrM.png' },
+  { name: 'Animall', sector: 'Agri-Tech', tagline: 'Platform focused on dairy farmers', logo: 'https://framerusercontent.com/images/xuILP4QkYugsiU1crLZKeKRT7Gc.png' },
   { name: 'Unbox Robotics', sector: 'Deeptech & AI', tagline: 'New-age swarm robots for automating warehouses' },
-  { name: 'Pratilipi', sector: 'Consumer Tech', tagline: 'Largest vernacular literature platform in India' },
-  { name: 'Flent', sector: 'Consumer Tech', tagline: 'Fully managed designer homes for mobile Indians' },
-  { name: 'Draconic', sector: 'Deeptech & AI', tagline: 'AI co-pilot for F&O trading' },
-  { name: 'Noto', sector: 'Brands', tagline: 'Low-calorie dessert brand' },
-  { name: 'Fragaria', sector: 'Agri-Tech', tagline: 'Full-stack agri-tech platform for premium and exotic fruits' },
+  { name: 'Pratilipi', sector: 'Consumer Tech', tagline: 'Largest vernacular literature platform in India', logo: 'https://framerusercontent.com/images/nZ88y5IABJO6R98Y362XRXTYmw.png' },
+  { name: 'Flent', sector: 'Consumer Tech', tagline: 'Fully managed designer homes for mobile Indians', logo: 'https://framerusercontent.com/images/4VVrLfmPx7qxv3ivK3363owGGg.png' },
+  { name: 'Draconic', sector: 'Deeptech & AI', tagline: 'AI co-pilot for F&O trading', logo: 'https://framerusercontent.com/images/Ru94fMZuvwaMUNoFOUutVtK0Mv0.png' },
+  { name: 'Noto', sector: 'Brands', tagline: 'Low-calorie dessert brand', logo: 'https://framerusercontent.com/images/F3kIcDAf2MreimMjhMN3dUXl8Y.png' },
+  { name: 'Fragaria', sector: 'Agri-Tech', tagline: 'Full-stack agri-tech platform for premium and exotic fruits', logo: 'https://framerusercontent.com/images/qwRGu3joNJozbQ7MDK9smKioMVk.png' },
   { name: 'MedMitra AI', sector: 'Deeptech & AI', tagline: 'AI solutions for doctors supporting faster diagnosis' },
-  { name: 'Sustvest', sector: 'Sustainability', tagline: 'Alternate investment platform for solar assets' },
-  { name: 'Knot', sector: 'Consumer Tech', tagline: '60-min try-and-buy fashion delivery' },
-  { name: 'Segmind', sector: 'Deeptech & AI', tagline: 'API stack for Gen-AI models' },
-  { name: 'Mitigata', sector: 'Fintech', tagline: 'Smarter cyber-risk insurance' },
-  { name: 'Magma', sector: 'Supply Chain', tagline: 'Empowering factories in India to perform efficiently' },
-  { name: 'Clinikk', sector: 'Health & Wellness', tagline: 'Chain of subscription-based primary care centers' },
-  { name: 'Infinity Box', sector: 'Sustainability', tagline: 'Re-usable packaging for F&B' },
-  { name: 'Hectar', sector: 'Agri-Tech', tagline: 'Full-stack agri trading platform' },
-  { name: 'Game Theory', sector: 'Consumer Tech', tagline: 'Smart sports facilities for coaching and recreational play' },
-  { name: 'Timepass', sector: 'Consumer Tech', tagline: 'TikTok-like platform for hyper-casual games' },
-  { name: 'Stellar Play', sector: 'Consumer Tech', tagline: 'Gaming studio making casual games', status: 'EXITED' },
+  { name: 'Sustvest', sector: 'Sustainability', tagline: 'Alternate investment platform for solar assets', logo: 'https://framerusercontent.com/images/KhiuqXhNbJWNdW5Ci4BdVwTVZc.png' },
+  { name: 'Knot', sector: 'Consumer Tech', tagline: '60-min try-and-buy fashion delivery', logo: 'https://framerusercontent.com/images/PFTcqnaalNaLSIlO8JperT0t3KI.png' },
+  { name: 'Segmind', sector: 'Deeptech & AI', tagline: 'API stack for Gen-AI models', logo: 'https://framerusercontent.com/images/HyjtVdEBvGMlsCk3HGQOQnOOo4U.png' },
+  { name: 'Mitigata', sector: 'Fintech', tagline: 'Smarter cyber-risk insurance', logo: 'https://framerusercontent.com/images/XlXqsjjmOKOEiTnUsMg6vZsbc90.png' },
+  { name: 'Magma', sector: 'Supply Chain', tagline: 'Empowering factories in India to perform efficiently', logo: 'https://framerusercontent.com/images/BM4owf8oyvK5opYUISrNS5RAV8.png' },
+  { name: 'Clinikk', sector: 'Health & Wellness', tagline: 'Chain of subscription-based primary care centers', logo: 'https://framerusercontent.com/images/kjAHxQSKCEG8GSjCFrgR0FENEbM.png' },
+  { name: 'Infinity Box', sector: 'Sustainability', tagline: 'Re-usable packaging for F&B', logo: 'https://framerusercontent.com/images/uvQk66uccc53vFkk1q0HJX0IOpw.png' },
+  { name: 'Hectar', sector: 'Agri-Tech', tagline: 'Full-stack agri trading platform', logo: 'https://framerusercontent.com/images/1rqsOrcS3oQDfsdJtNbkBWqXUAw.png' },
+  { name: 'Game Theory', sector: 'Consumer Tech', tagline: 'Smart sports facilities for coaching and recreational play', logo: 'https://framerusercontent.com/images/ZboBE713hIAvP9HXdmROGzb32Tw.png' },
+  { name: 'Timepass', sector: 'Consumer Tech', tagline: 'TikTok-like platform for hyper-casual games', logo: 'https://framerusercontent.com/images/weAglkgTrgoNbEFRWYpdI5mn8.png' },
+  { name: 'Stellar Play', sector: 'Consumer Tech', tagline: 'Gaming studio making casual games', status: 'EXITED', logo: 'https://framerusercontent.com/images/2PncJHUvkFt6wuU6Qs7b6Wiuw.png' },
 ];
 
 const sectorColors = {
@@ -143,16 +143,24 @@ export default function Portfolio() {
                   onMouseEnter={e => e.currentTarget.style.backgroundColor = '#fff7ed'}
                   onMouseLeave={e => e.currentTarget.style.backgroundColor = '#ffffff'}
                 >
-                  {/* Top row: initial + status */}
+                  {/* Top row: logo + status badge */}
                   <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: '1.25rem' }}>
-                    <div style={{ width: '36px', height: '36px', backgroundColor: '#0a0a0a', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '2px', flexShrink: 0 }} aria-hidden="true">
-                      <span style={{ color: '#f97316', fontWeight: 900, fontSize: '0.875rem', fontFamily: "'Syne', sans-serif" }}>{company.name[0]}</span>
+                    <div style={{ width: '52px', height: '52px', backgroundColor: '#f5f5f5', border: '1px solid #ebebeb', borderRadius: '4px', overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                      {company.logo ? (
+                        <img
+                          src={company.logo}
+                          alt={`${company.name} logo`}
+                          style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '6px' }}
+                          onError={e => { e.currentTarget.style.display = 'none'; }}
+                        />
+                      ) : (
+                        <div style={{ width: '100%', height: '100%', backgroundColor: '#0a0a0a', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '4px' }} aria-hidden="true">
+                          <span style={{ color: '#f97316', fontWeight: 900, fontSize: '0.875rem', fontFamily: "'Syne', sans-serif" }}>{company.name[0]}</span>
+                        </div>
+                      )}
                     </div>
                     {company.status && (
-                      <span
-                        style={{ fontSize: '0.65rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#f97316', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase' }}
-                        aria-label={`Status: ${company.status}`}
-                      >
+                      <span style={{ fontSize: '0.6rem', fontWeight: 800, letterSpacing: '0.08em', padding: '2px 8px', borderRadius: '2px', backgroundColor: 'rgba(249,115,22,0.1)', color: '#f97316', border: '1px solid rgba(249,115,22,0.3)', textTransform: 'uppercase', flexShrink: 0 }} aria-label={`Status: ${company.status}`}>
                         {company.status}
                       </span>
                     )}

@@ -49,7 +49,7 @@ export default function Approach() {
               key={number} delay={i * 60}
               style={{ display: 'grid', gridTemplateColumns: '80px 1fr', gap: '2.5rem', padding: '3rem 0', borderBottom: '1px solid #e5e5e5', alignItems: 'start' }}
             >
-              <span style={{ fontFamily: "'Syne', sans-serif", fontSize: '2.5rem', fontWeight: 900, color: '#e5e5e5', lineHeight: 1, userSelect: 'none' }} aria-hidden="true">{number}</span>
+              <span style={{ fontFamily: "'Syne', sans-serif", fontSize: '2.5rem', fontWeight: 900, color: '#737373', lineHeight: 1, userSelect: 'none' }} aria-hidden="true">{number}</span>
               <div>
                 <h2 style={{ fontFamily: "'Syne', sans-serif", fontSize: '1.125rem', fontWeight: 800, color: '#0a0a0a', marginBottom: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.02em' }}>{heading}</h2>
                 <p style={{ fontSize: '0.9375rem', color: '#525252', lineHeight: 1.75, maxWidth: '40rem', margin: 0 }}>{body}</p>
@@ -66,7 +66,7 @@ export default function Approach() {
             <h2 id="approach-cta-heading" style={{ fontFamily: "'Syne', sans-serif", fontSize: 'clamp(2rem, 3.5vw, 3rem)', fontWeight: 900, color: '#ffffff', textTransform: 'uppercase', margin: '0 0 0.25rem', letterSpacing: '-0.01em' }}>
               Sound like a fit?
             </h2>
-            <p style={{ color: 'rgba(255,255,255,0.75)', fontSize: '1rem', margin: 0 }}>We'd love to have a real conversation.</p>
+            <p style={{ color: '#ffffff', fontSize: '1rem', margin: 0 }}>We'd love to have a real conversation.</p>
           </div>
           <a
             href="https://forms.gle/2156kxYjbMqcsyJe7"
@@ -74,7 +74,7 @@ export default function Approach() {
             aria-label="Say hello — submit your pitch to WEH Ventures (opens external form)"
             style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', minHeight: '52px', padding: '0 2rem', backgroundColor: '#ffffff', color: '#c2410c', fontWeight: 800, fontSize: '0.875rem', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px', whiteSpace: 'nowrap' }}
             onMouseEnter={e => { e.currentTarget.style.backgroundColor = '#0a0a0a'; e.currentTarget.style.color = '#ffffff'; }}
-            onMouseLeave={e => { e.currentTarget.style.backgroundColor = '#ffffff'; e.currentTarget.style.color = '#f97316'; }}
+            onMouseLeave={e => { e.currentTarget.style.backgroundColor = '#ffffff'; e.currentTarget.style.color = '#c2410c'; }}
           >
             Say Hello <ArrowUpRight size={16} aria-hidden="true" />
           </a>

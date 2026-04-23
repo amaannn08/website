@@ -49,10 +49,10 @@ export default function Navbar() {
                 fontWeight: isActive ? 600 : 500,
                 letterSpacing: '0.04em',
                 textDecoration: 'none',
-                color: isActive ? '#f97316' : '#0a0a0a',
+                color: isActive ? '#c2410c' : '#0a0a0a',
                 transition: 'color 0.15s',
               })}
-              onMouseEnter={e => { if (e.currentTarget.style.color !== '#f97316') e.currentTarget.style.color = '#f97316'; }}
+              onMouseEnter={e => { if (e.currentTarget.style.color !== '#c2410c') e.currentTarget.style.color = '#c2410c'; }}
               onMouseLeave={e => { /* NavLink handles active state */ }}
             >
               {label}
@@ -113,7 +113,7 @@ export default function Navbar() {
               style={({ isActive }) => ({
                 fontSize: '1rem', fontWeight: 600,
                 textDecoration: 'none',
-                color: isActive ? '#f97316' : '#0a0a0a',
+                color: isActive ? '#c2410c' : '#0a0a0a',
                 padding: '0.5rem 0', transition: 'color 0.15s',
               })}
             >

@@ -35,7 +35,7 @@ export default function Footer() {
 
           {/* Nav */}
           <div>
-            <p style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#c2410c', marginBottom: '1rem' }}>
+            <p style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.18em', textTransform: 'uppercase', color: '#f97316', marginBottom: '1rem' }}>
               Pages
             </p>
             <nav aria-label="Footer navigation" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
